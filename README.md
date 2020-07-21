@@ -36,7 +36,7 @@ data
 2.2. 点击 (`Add Database`)
 
 <p align="left">
-    <img width="10%" src="image/2.png" style="max-width:10%;">
+    <img width="30%" src="image/2.jpg" style="max-width:30%;">
     </a>
 </p>
 
