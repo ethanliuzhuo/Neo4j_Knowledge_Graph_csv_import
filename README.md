@@ -27,4 +27,16 @@ data
 安装至任意盘
 
 ## 2.创建一个Graph 数据库
+2.1. 打开桌面上的图标
+<p align="left">
+    <img width="10%" src="image/1.png" style="max-width:10%;">
+    </a>
+</p>
+
+2.2. 点击 (`Add Database`)
+
+<p align="left">
+    <img width="10%" src="image/2.png" style="max-width:10%;">
+    </a>
+</p>
 
