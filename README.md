@@ -60,3 +60,28 @@ data
     <img width="30%" src="image/5.jpg" style="max-width:30%;">
     </a>
 </p>
+
+## 3.数据导入
+<p align="left">
+    <img width="100%" src="image/6.png" style="max-width:100%;">
+    </a>
+</p>
+
+经过对比，neo4j的官方命令`neo4j-import`最为强大，速度非常快。接下来我们使用两种方法导入数据：
+
+1.使用Python 文件进行导入
+
+**优点**：对于熟悉python的同学操作更容易理解
+
+**缺点**：速度慢，其本质使用的是和表格中的`create`，经过测试，15,000个菜谱数据导入耗费2个小时左右。建议小规模数据使用。
+
+2.使用`neo4j-import`命令导入
+
+**缺点**：步骤繁琐复杂
+
+**优点**：速度快，相同的数据30秒导入完成
+
+## 3.1 Python 导入
+
+`build_medicalgraph.py`实施。该文件由刘焕勇老师[-**`QASystemOnMedicalKG`**](https://github.com/liuhuanyong/QASystemOnMedicalKG)<br> 修改而来。
+
