@@ -33,10 +33,30 @@ data
     </a>
 </p>
 
-2.2. 点击 (`Add Database`)
+2.2. 点击 `Add Database`
 
 <p align="left">
     <img width="30%" src="image/2.jpg" style="max-width:30%;">
     </a>
 </p>
 
+2.3. 点击 `Crete a Local Graph`,创建一个图数据库
+
+<p align="left">
+    <img width="30%" src="image/3.jpg" style="max-width:30%;">
+    </a>
+</p>
+
+2.4. 输入Name 和 Password, 一般默认Name 为Graph Password 为neo4j或者admin， 密码非常重要，链接数据库时需要密码
+
+<p align="left">
+    <img width="30%" src="image/4.jpg" style="max-width:30%;">
+    </a>
+</p>
+
+2.5. 启动Grph， 点击`Start`, 即启动完成
+
+<p align="left">
+    <img width="30%" src="image/5.jpg" style="max-width:30%;">
+    </a>
+</p>
