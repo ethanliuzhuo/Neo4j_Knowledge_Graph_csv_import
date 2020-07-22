@@ -12,7 +12,7 @@ data
 |    └──DishesSuitable.json #替代食材
 |    └──DishesView.json #菜谱详细信息，菜名，时间，难度，步骤等
 |    └──RecommendLike.json #相关菜
-└── 248
+├── 248
 |    └──CommentList.json
 |    └──DishesCommensense.json
 |    └──DishesMaterial.json
@@ -185,3 +185,90 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
 
 
 ## 3.2 neo4j-import 导入
+该步骤有官方[教程](https://neo4j.com/docs/operations-manual/current/tutorial/import-tool/)
+
+### 3.2.1 准备工作
+在此之前，需要对计算机安装[java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)，Windows下安装完成即可，暂不用输入进环境变量中。注意版本必须是java 11 或以上，低版本不支持，会出现`Could not find java at C:\Program Files (x86)\Java\jdk1.8.0_181\bin\java.exe`等错误。[java 11安装教程](https://blog.csdn.net/weixin_40928253/article/details/83590136)
+
+### 3.2.2 准备csv文档
+`知识图谱整理.py`实施
+
+参考官方教程，节点的csv文档必须有三组数据：`nodeID:ID，node_name，:LABEL`;关系csv中必须有这四种数据：`:START_ID，role，:END_ID，:TYPE`；官方数据如下：
+```bashrc
+  movieId:ID                   title  year:int        :LABEL
+0  tt0133093              The Matrix      1999         Movie
+1  tt0234215     The Matrix Reloaded      2003  Movie;Sequel
+2  tt0242653  The Matrix Revolutions      2003  Movie;Sequel
+
+  personId:ID                name :LABEL
+0       keanu        Keanu Reeves  Actor
+1     laurenc  Laurence Fishburne  Actor
+2  carrieanne    Carrie-Anne Moss  Actor
+
+    :START_ID      role    :END_ID     :TYPE
+0       keanu       Neo  tt0133093  ACTED_IN
+1       keanu       Neo  tt0234215  ACTED_IN
+2       keanu       Neo  tt0242653  ACTED_IN
+3     laurenc  Morpheus  tt0133093  ACTED_IN
+4     laurenc  Morpheus  tt0234215  ACTED_IN
+5     laurenc  Morpheus  tt0242653  ACTED_IN
+6  carrieanne   Trinity  tt0133093  ACTED_IN
+7  carrieanne   Trinity  tt0234215  ACTED_IN
+8  carrieanne   Trinity  tt0242653  ACTED_IN
+```
+
+按照该要求，需要用`sklearn`中的`LabelEncoder`对他们进行编码，为了使其ID不唯一，对第二组的`nodes`的`value_id`全部加上100000，然后生成两个节点csv文件和一个关系csv文件，csv必须使用`utf-8`进行编码。生成数据如下：
+```bashrc
+        entity_id:ID   entity         :LABEL
+0              10872    西式凤尾虾      Name
+1               2106  奥尔良风味披萨     Name
+                 ...      ...          ...
+439492          3621  杂粮阳光三明治     Name
+439493          3446    早餐三明治       Name
+ 
+        value_id:ID       value       :LABEL
+0           1017630        一般         难度
+1           1017630        一般         难度
+            ...             ...          ...
+439492      1041231       早餐三明治     相关菜
+439493      1041231       早餐三明治     相关菜
+
+        :START_ID     role  :END_ID :TYPE
+0           10872    西式凤尾虾  1017630    难度
+1            2106  奥尔良风味披萨  1017630    难度
+          ...      ...      ...   ...
+439492       3621  杂粮阳光三明治  1041231   相关菜
+439493       3446    早餐三明治  1041231   相关菜
+```
+
+### 3.2.3 放置csv文件
+回到Neo4j Desktop,关闭数据库，使其处于停止状态。并确保该数据库为空数据库，0 Nodes，0 relationships；
+<p align="left">
+    <img width="30%" src="image/5.jpg" style="max-width:30%;">
+    </a>
+</p>
+
+找到Neo4j Desktop的安装路径，将三个csv文件放入`import`目录下，就代表文件放置工作完成。
+```bashrc
+
+../Neo4j_Desktop/neo4jDatabases/database-xxxx-xxxx-xxxx/installation-4.0.3/
+                                                               ├── import(原本该文件夹为空，后将把csv文件放置该目录下)
+                                                               |     └──nodes_xxx_1.csv(movies.csv)
+                                                               |     └──nodes_xxx_2.csv(actors.csv)
+                                                               |     └──relationships_xxx.csv()
+                                                               ├── data
+                                                               |     └──databases(每次执行确保该文件夹是空的)
+                                                               |     └──dbms(不用管)
+                                                               |     └──transactions(每次执行确保该文件夹是空的)
+                                                               ├── bin
+                                                               └── ...
+                                                               
+      
+```
+
+### 3.2.4 import csv文件进入数据库
+打开`cmd`，'cd'到`installation-4.0.3/bin`目录下(注意，如果文件在其他盘，则需要加`/`，如：`cd /d d:`).
+
+启动命令`neo4j-admin import --nodes=../import/movies.csv --nodes=../import/actors.csv --relationships=../import/roles.csv --multiline-fields=True --skip-duplicate-nodes=True`
+
+注意，因为csv有重复值，必须使用`--skip-duplicate-nodes=True`，更多的参数设置，参考[这里](http://weikeqin.com/2017/04/11/neo4j-import/)
