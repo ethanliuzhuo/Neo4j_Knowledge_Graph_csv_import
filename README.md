@@ -106,7 +106,7 @@ user="neo4j",  # 数据库user name，如果没有更改过，应该是neo4j
 password="" #使用自己的密码
 ``` 
 
-#### 3.1.2.1. read_nodes 修改
+#### 3.1.2.1 read_nodes 修改
 
 字典中有多少个`key`，就构建多少个空`list`。如有一些没用的`key`，可以舍弃，构建节点看自己数据定义。以及一个储存所有信息的`list`：`all_infos`
 
@@ -135,24 +135,24 @@ if '味道' in data_json:
 
 返回上面构建的所有list，一个也不能落下。其中节点使用set保证唯一性。
 
-#### 3.1.2.2. create_node 
+#### 3.1.2.2 create_node 
 无需修改
 
-#### 3.1.2.3. create_dishes_nodes 构建初始节点
+#### 3.1.2.3 create_dishes_nodes 构建初始节点
 这里修改了变量名，由`create_diseases_nodes`修改而来
 
 Node 的关键名字由"Disease"变成"Name"或者你想要的名字。
 
 剩下的为 key = disease_dict[key]，key为你在read_nodes中字典的关键词。比如：`hard_level=disease_dict['hard_level']`。
 
-#### 3.1.2.4. create_graphnodes 构建节点
+#### 3.1.2.4 create_graphnodes 构建节点
 第一行，使用`read_nodes()`函数。因为返回的list数量很多，需要数清楚对应的返回的变量，节点名称的首字母大写。
 
 create_dishes_nodes（disease_infos） 变成你构建的字典名称 create_dishes_nodes(all_infos) 
 
 然后接下来以此添加修改节点名称。
 
-#### 3.1.2.5. create_graphrels 构建关系
+#### 3.1.2.5 create_graphrels 构建关系
 ```bashrc
 self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_level', '难度')
 ```
@@ -166,16 +166,16 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
 
 即`create_relationship('Dashes_name', 'Hard_level', rels_hard_level,  '难度')`是可行的。
 
-#### 3.1.2.6. create_relationship
+#### 3.1.2.6 create_relationship
 无需修改
 
-#### 3.1.2.7. others
+#### 3.1.2.7 others
 测试查找用，可不用
 
-#### 3.1.2.8. export_data
+#### 3.1.2.8 export_data
 生成txt文件，可不用
 
-### 3.1.3. 命令行导入数据
+### 3.1.3 命令行导入数据
 `cd` 到`build_medicalgraph.py`所在目录下，启动`python build_medicalgraph.py`
 <p align="left">
     <img width="20%" src="image/7.jpg" style="max-width:20%;">
@@ -267,7 +267,7 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
 ```
 
 ### 3.2.4 import csv文件进入数据库
-打开`cmd`，'cd'到`installation-4.0.3/bin`目录下(注意，如果文件在其他盘，则需要加`/`，如：`cd /d d:`).
+打开`cmd`，`cd`到`installation-4.0.3/bin`目录下(注意，如果文件在其他盘，则需要加`/`，如：`cd /d d:`).
 
 启动命令`neo4j-admin import --nodes=../import/movies.csv --nodes=../import/actors.csv --relationships=../import/roles.csv --multiline-fields=True --skip-duplicate-nodes=True`
 
