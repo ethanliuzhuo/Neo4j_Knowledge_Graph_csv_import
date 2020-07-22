@@ -185,7 +185,7 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
 
 
 ## 3.2 neo4j-import 导入
-该步骤有官方[教程](https://neo4j.com/docs/operations-manual/current/tutorial/import-tool/)
+该步骤有官方[教程](https://neo4j.com/docs/operations-manual/current/tutorial/import-tool/),但略简单，可作为测试使用。
 
 ### 3.2.1 准备工作
 在此之前，需要对计算机安装[java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)，Windows下安装完成即可，暂不用输入进环境变量中。注意版本必须是java 11 或以上，低版本不支持，会出现`Could not find java at C:\Program Files (x86)\Java\jdk1.8.0_181\bin\java.exe`等错误。[java 11安装教程](https://blog.csdn.net/weixin_40928253/article/details/83590136)
@@ -271,4 +271,4 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
 
 启动命令`neo4j-admin import --nodes=../import/movies.csv --nodes=../import/actors.csv --relationships=../import/roles.csv --multiline-fields=True --skip-duplicate-nodes=True`
 
-注意，因为csv有重复值，必须使用`--skip-duplicate-nodes=True`，更多的参数设置，参考[这里](http://weikeqin.com/2017/04/11/neo4j-import/)
+注意，因为csv有重复值，必须使用`--skip-duplicate-nodes=True`，更多的参数设置，参考[官方](https://neo4j.com/docs/operations-manual/current/tools/import/options/)，中文翻译参考[这里](http://weikeqin.com/2017/04/11/neo4j-import/)
