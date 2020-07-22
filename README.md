@@ -74,7 +74,7 @@ data
 
 **优点**：对于熟悉python的同学操作更容易理解
 
-**缺点**：速度慢，其本质使用的是和表格中的`create`，经过测试，15,000个菜谱数据导入耗费2个小时左右。建议小规模数据使用。
+**缺点**：速度慢，其本质使用的是和表格中的`create`，经过测试，15,000个菜谱数据导入耗费2个小时左右。建议小规模数据使用
 
 2.使用`neo4j-import`命令导入
 
@@ -110,10 +110,10 @@ password="" #使用自己的密码
 
 字典中有多少个`key`，就构建多少个空`list`。如有一些没用的`key`，可以舍弃，构建节点看自己数据定义。以及一个储存所有信息的`list`：`all_infos`
 
-再接着构建 **关系**`list`，这里面构建了(结点 - 1) 个个关系。比如有17个节点，构建了16个关系；比如`菜名 - 难度 的关系`；
+再接着构建 **关系**`list`，这里面构建了(结点 - 1) 个个关系。比如有17个节点，构建了16个关系；比如`菜名 - 难度 的关系`
 
 
-65行为逐行添加信息，循环中构建一个空字典，循坏结束时将字典添加进入`all_infos`的list中。
+65行为逐行添加信息，循环中构建一个空字典，循坏结束时将字典添加进入`all_infos`的list中
 
 如果一类关系是一对多的关系，比如`"标签": ["披萨", "甜", "烤", "下午茶", "补锌"]`，那么需要使用for loop加入关系
 ```bashrc
@@ -133,7 +133,7 @@ if '味道' in data_json:
     rels_taste.append([name_dishes, data_json['味道']])
 ```
 
-返回上面构建的所有list，一个也不能落下。其中节点使用set保证唯一性。
+返回上面构建的所有list，一个也不能落下。其中节点使用set保证唯一性
 
 #### 3.1.2.2 create_node 
 无需修改
@@ -141,12 +141,12 @@ if '味道' in data_json:
 #### 3.1.2.3 create_dishes_nodes 构建初始节点
 这里修改了变量名，由`create_diseases_nodes`修改而来
 
-Node 的关键名字由"Disease"变成"Name"或者你想要的名字。
+Node 的关键名字由"Disease"变成"Name"或者你想要的名字
 
 剩下的为 key = disease_dict[key]，key为你在read_nodes中字典的关键词。比如：`hard_level=disease_dict['hard_level']`。
 
 #### 3.1.2.4 create_graphnodes 构建节点
-第一行，使用`read_nodes()`函数。因为返回的list数量很多，需要数清楚对应的返回的变量，节点名称的首字母大写。
+第一行，使用`read_nodes()`函数。因为返回的list数量很多，需要数清楚对应的返回的变量，节点名称的首字母大写
 
 create_dishes_nodes（disease_infos） 变成你构建的字典名称 create_dishes_nodes(all_infos) 
 
@@ -156,15 +156,9 @@ create_dishes_nodes（disease_infos） 变成你构建的字典名称 create_dis
 ```bashrc
 self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_level', '难度')
 ```
-第一个值为出发节点（实体）
+第一个值为出发节点（实体），第二个值为到达节点（值），第三个值为关系表达式，read_nodes中的rels_xx_xx，第四、五个位关系（属性）名称，可以只保留一个
 
-第二个值为到达节点（值）
-
-第三个值为关系表达式，read_nodes中的rels
-
-第四、五个位关系（属性）名称，可以只保留一个。这里用两个在可视化中可以选择英文或者中文。
-
-即`create_relationship('Dashes_name', 'Hard_level', rels_hard_level,  '难度')`是可行的。
+这里用两个在可视化中可以选择英文或者中文,即`create_relationship('Dashes_name', 'Hard_level', rels_hard_level,  '难度')`是可行的。
 
 #### 3.1.2.6 create_relationship
 无需修改
@@ -219,26 +213,26 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
 
 按照该要求，需要用`sklearn`中的`LabelEncoder`对他们进行编码，为了使其ID不唯一，对第二组的`nodes`的`value_id`全部加上100000，然后生成两个节点csv文件和一个关系csv文件，csv必须使用`utf-8`进行编码。生成数据如下：
 ```bashrc
-        entity_id:ID   entity         :LABEL
-0              10872    西式凤尾虾      Name
-1               2106  奥尔良风味披萨     Name
-                 ...      ...          ...
-439492          3621  杂粮阳光三明治     Name
-439493          3446    早餐三明治       Name
+        entity_id:ID        entity         :LABEL
+0              10872      西式凤尾虾          Name
+1               2106    奥尔良风味披萨        Name
+                 ...         ...               ...
+439492          3621    杂粮阳光三明治         Name
+439493          3446      早餐三明治          Name
  
-        value_id:ID       value       :LABEL
-0           1017630        一般         难度
-1           1017630        一般         难度
-            ...             ...          ...
-439492      1041231       早餐三明治     相关菜
-439493      1041231       早餐三明治     相关菜
+        value_id:ID       value          :LABEL
+0           1017630        一般           难度
+1           1017630        一般           难度
+            ...             ...           ...
+439492      1041231       早餐三明治      相关菜
+439493      1041231       早餐三明治      相关菜
 
-        :START_ID     role  :END_ID :TYPE
-0           10872    西式凤尾虾  1017630    难度
-1            2106  奥尔良风味披萨  1017630    难度
-          ...      ...      ...   ...
-439492       3621  杂粮阳光三明治  1041231   相关菜
-439493       3446    早餐三明治  1041231   相关菜
+        :START_ID       role  :     END_ID :    TYPE
+0           10872    西式凤尾虾     1017630      难度
+1            2106  奥尔良风味披萨    1017630      难度
+               ...      ...         ....        ...    
+439492       3621  杂粮阳光三明治   1041231      相关菜
+439493       3446    早餐三明治     1041231      相关菜
 ```
 
 ### 3.2.3 放置csv文件
@@ -261,6 +255,7 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
                                                                |     └──dbms(不用管)
                                                                |     └──transactions(每次执行确保该文件夹是空的)
                                                                ├── bin
+                                                               |
                                                                └── ...
                                                                
       
