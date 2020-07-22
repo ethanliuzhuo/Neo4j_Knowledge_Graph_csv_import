@@ -1,0 +1,33 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543916092000,
+    "data": {
+        "material_image": "http://img.szzhangchu.com/ylzt_20130322153956300.jpg",
+        "material": [
+            {
+                "material_name": "水发银耳",
+                "material_weight": "60克"
+            },
+            {
+                "material_name": "南杏、北杏",
+                "material_weight": "各10克"
+            },
+            {
+                "material_name": "雪梨",
+                "material_weight": "1个"
+            },
+            {
+                "material_name": "白糖",
+                "material_weight": "10克"
+            }
+        ],
+        "spices": [
+            {
+                "title": "白糖",
+                "image": "http://img.szzhangchu.com/1445083290679_7713822686.jpg"
+            }
+        ]
+    }
+}

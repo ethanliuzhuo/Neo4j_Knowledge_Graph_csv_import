@@ -1,0 +1,206 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543912645000,
+    "data": {
+        "total": 5,
+        "data": [
+            {
+                "title": "黑米粥",
+                "description": "补肾强身的粥类佳品",
+                "image": "http://img.szzhangchu.com/1439346449711_3832670080.jpg",
+                "id": "261",
+                "video": "http://video.szzhangchu.com/heimizhouA.mp4",
+                "video1": "http://video.szzhangchu.com/heimizhouB.mp4",
+                "play": "47967",
+                "favorite": "3408",
+                "create_date": 1037257012,
+                "content": "中医认为黑色入肾，黑色食物大多有补肾的功效。如黑米，黑豆，黑芝麻等。所以简单易做的黑米粥是补肾养身的不二之选。",
+                "tags_info": [
+                    {
+                        "id": "223",
+                        "text": "粥",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "189",
+                        "text": "黑米",
+                        "type": 1
+                    },
+                    {
+                        "id": "296",
+                        "text": "益气补血",
+                        "type": 1
+                    },
+                    {
+                        "id": "340",
+                        "text": "家庭主妇",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "黑米银耳红枣粥",
+                "description": "三个词，补肾，养颜，补血",
+                "image": "http://img.szzhangchu.com/1442548833914_7955431794.JPG",
+                "id": "603",
+                "video": "http://video.szzhangchu.com/heimiyinerhongzaozhouA.mp4",
+                "video1": "http://video.szzhangchu.com/heimiyinerhongzaozhouB.mp4",
+                "play": "12266",
+                "favorite": "2280",
+                "create_date": 1046748513,
+                "content": "中医认为，黑色食物有补肾养精的功效，黑米更是其中的翘楚。银耳养颜就不用说啦~",
+                "tags_info": [
+                    {
+                        "id": "145",
+                        "text": "菌菇",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "189",
+                        "text": "黑米",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "293",
+                        "text": "养心润肺",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "黑豆红枣粥",
+                "description": "黑豆补肾，红枣补血",
+                "image": "http://img.szzhangchu.com/1443152644512_2905493847.JPG",
+                "id": "616",
+                "video": "http://video.szzhangchu.com/heidouhongzaozhouA.mp4",
+                "video1": "http://video.szzhangchu.com/heidouhongzaozhouB.mp4",
+                "play": "35210",
+                "favorite": "5238",
+                "create_date": 1047097340,
+                "content": "话说，喜欢喝粥是成熟的标志之一，应为开始学会珍惜自己的健康。那黑豆红枣粥不可错过。",
+                "tags_info": [
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "223",
+                        "text": "粥",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "199",
+                        "text": "黑豆",
+                        "type": 1
+                    },
+                    {
+                        "id": "340",
+                        "text": "家庭主妇",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "八宝粥",
+                "description": "美容养生粥",
+                "image": "http://img.szzhangchu.com/1439395372616_6488937140.JPG",
+                "id": "12595",
+                "video": "http://video.szzhangchu.com/babaozhouA.mp4",
+                "video1": "http://video.szzhangchu.com/babaozhouB.mp4",
+                "play": "41581",
+                "favorite": "2664",
+                "create_date": 1377579549,
+                "content": "营养价值很高，因为它是由各种米，豆的精华组成。配好的八宝米经过小火慢熬，它的营养更易吸收，常喝可以美容养颜，健脑补血，养胃明目。",
+                "tags_info": [
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "223",
+                        "text": "粥",
+                        "type": 1
+                    },
+                    {
+                        "id": "322",
+                        "text": "淡",
+                        "type": 1
+                    },
+                    {
+                        "id": "189",
+                        "text": "黑米",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "建莲红枣汤",
+                "description": "建莲红枣汤",
+                "image": "http://img.szzhangchu.com/1521512265191_2812938683.jpg",
+                "id": "16638",
+                "video": "http://video.szzhangchu.com/20180115jianlianhongzaotangA.mp4",
+                "video1": "http://video.szzhangchu.com/20180115jianlianhongzaotangB.mp4",
+                "play": "11767",
+                "favorite": "0",
+                "create_date": 1521511649,
+                "content": "补气养血，养心安神，补肾健脾",
+                "tags_info": [
+                    {
+                        "id": "253",
+                        "text": "糖水",
+                        "type": 1
+                    },
+                    {
+                        "id": "280",
+                        "text": "美白",
+                        "type": 1
+                    },
+                    {
+                        "id": "411",
+                        "text": "汤羹",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "297",
+                        "text": "安神助眠",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

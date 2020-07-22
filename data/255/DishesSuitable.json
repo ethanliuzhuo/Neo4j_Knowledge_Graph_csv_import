@@ -1,0 +1,38 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898954000,
+    "data": {
+        "material": {
+            "material_id": "69",
+            "material_name": "荷兰豆",
+            "image": "http://img.szzhangchu.com/1439805300672_5363496117.jpg",
+            "suitable_not_with": [
+                {
+                    "material_id": "2",
+                    "material_name": "菠菜",
+                    "type": "1",
+                    "suitable_desc": "影响钙的吸收",
+                    "image": "http://img.szzhangchu.com/20141107110043154.jpg"
+                }
+            ],
+            "suitable_with": [
+                {
+                    "material_id": "511",
+                    "material_name": "红糖",
+                    "type": "0",
+                    "suitable_desc": "健脾，通乳，利水",
+                    "image": "http://img.szzhangchu.com/1439717565758_4743349409.jpg"
+                },
+                {
+                    "material_id": "672",
+                    "material_name": "蘑菇",
+                    "type": "0",
+                    "suitable_desc": "开胃消食",
+                    "image": "http://img.szzhangchu.com/1441194722760_2768697391.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543914053000,
+    "data": {
+        "page": "1",
+        "size": "100",
+        "total": "0",
+        "count": "0",
+        "data": null
+    }
+}

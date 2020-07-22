@@ -1,0 +1,145 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543898955000,
+    "data": {
+        "dashes_id": "256",
+        "dashes_name": "河南泡菜",
+        "material_video": "http://video.szzhangchu.com/henanpaocaiA.mp4",
+        "process_video": "http://video.szzhangchu.com/henanpaocaiB.mp4",
+        "hard_level": "容易",
+        "taste": "鲜",
+        "cooke_time": "5天",
+        "image": "http://img.szzhangchu.com/1439346334425_3529562628.jpg",
+        "material_desc": "早说了，泡菜不只是韩国才有，河南泡菜味道也是杠杠滴～",
+        "share_amount": "0",
+        "dishes_name": "河南泡菜",
+        "dishes_title": "其实，泡菜不是韩国才有",
+        "dishes_id": "256",
+        "cooking_time": "5天",
+        "collect_count": "60531",
+        "click_count": "23910",
+        "create_date": "2002-11-13",
+        "last_update": "2018-12-04",
+        "comment_count": "5",
+        "agreement_amount": "1073",
+        "tags_info": [
+            {
+                "id": 321,
+                "text": "鲜",
+                "type": 1
+            },
+            {
+                "id": 340,
+                "text": "家庭主妇",
+                "type": 1
+            },
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            },
+            {
+                "id": 289,
+                "text": "增强免疫力",
+                "type": 1
+            },
+            {
+                "id": 160,
+                "text": "叶菜类",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=256",
+        "step": [
+            {
+                "dishes_step_id": "1492",
+                "dishes_id": "256",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_0.jpg",
+                "dishes_step_desc": "将洗好的黄瓜切成片。"
+            },
+            {
+                "dishes_step_id": "1493",
+                "dishes_id": "256",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_1.jpg",
+                "dishes_step_desc": "再把已去皮洗净的胡萝卜切薄片。"
+            },
+            {
+                "dishes_step_id": "1494",
+                "dishes_id": "256",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_2.jpg",
+                "dishes_step_desc": "洗净的青椒切小段。"
+            },
+            {
+                "dishes_step_id": "1495",
+                "dishes_id": "256",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_3.jpg",
+                "dishes_step_desc": "洗好的包菜切片。"
+            },
+            {
+                "dishes_step_id": "1496",
+                "dishes_id": "256",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_4.jpg",
+                "dishes_step_desc": "将包菜装入碗中，加入盐、白糖。"
+            },
+            {
+                "dishes_step_id": "1497",
+                "dishes_id": "256",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_5.jpg",
+                "dishes_step_desc": "用筷子搅拌均匀。"
+            },
+            {
+                "dishes_step_id": "1498",
+                "dishes_id": "256",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_6.jpg",
+                "dishes_step_desc": "再倒入切好的青椒、黄瓜、胡萝卜，拌匀。"
+            },
+            {
+                "dishes_step_id": "1499",
+                "dishes_id": "256",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_7.jpg",
+                "dishes_step_desc": "倒入白醋，再倒入约500毫升矿泉水，"
+            },
+            {
+                "dishes_step_id": "1500",
+                "dishes_id": "256",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_8.jpg",
+                "dishes_step_desc": "用筷子来回翻转几次。"
+            },
+            {
+                "dishes_step_id": "1501",
+                "dishes_id": "256",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_9.jpg",
+                "dishes_step_desc": "将拌好的材料盛入罐中，压实压紧。"
+            },
+            {
+                "dishes_step_id": "1502",
+                "dishes_id": "256",
+                "dishes_step_order": "11",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_10.jpg",
+                "dishes_step_desc": "加盖密封，置于阴凉处浸泡5天。"
+            },
+            {
+                "dishes_step_id": "1503",
+                "dishes_id": "256",
+                "dishes_step_order": "12",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322142018_11.jpg",
+                "dishes_step_desc": "泡菜制成，取出即可食用。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

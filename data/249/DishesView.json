@@ -1,0 +1,116 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543914051000,
+    "data": {
+        "dashes_id": "249",
+        "dashes_name": "当归泡芹菜",
+        "material_video": "http://video.szzhangchu.com/dangguipaoqincaiA.mp4",
+        "process_video": "http://video.szzhangchu.com/dangguipaoqincaiB.mp4",
+        "hard_level": "容易",
+        "taste": "辣",
+        "cooke_time": "3天",
+        "image": "http://img.szzhangchu.com/1439346169985_7412658957.jpg",
+        "material_desc": "要想做个会疼爱自己媳妇儿的少年，你除了知道红枣，了解一下当归也很有必要。当归的调理作用和芹菜的补血功效合二为一，效果一定超出你的想象。",
+        "share_amount": "0",
+        "dishes_name": "当归泡芹菜",
+        "dishes_title": "不能少的粗纤维膳食！",
+        "dishes_id": "249",
+        "cooking_time": "3天",
+        "collect_count": "2930",
+        "click_count": "3551",
+        "create_date": "2002-11-10",
+        "last_update": "2018-12-03",
+        "comment_count": "0",
+        "agreement_amount": "81",
+        "tags_info": [
+            {
+                "id": 160,
+                "text": "叶菜类",
+                "type": 1
+            },
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=249",
+        "step": [
+            {
+                "dishes_step_id": "1422",
+                "dishes_id": "249",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_0.jpg",
+                "dishes_step_desc": "洗好的芹菜切成约4厘米长的条段。"
+            },
+            {
+                "dishes_step_id": "1423",
+                "dishes_id": "249",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_1.jpg",
+                "dishes_step_desc": "把切好的芹菜放碗中。"
+            },
+            {
+                "dishes_step_id": "1424",
+                "dishes_id": "249",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_2.jpg",
+                "dishes_step_desc": "放入红椒圈。"
+            },
+            {
+                "dishes_step_id": "1425",
+                "dishes_id": "249",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_3.jpg",
+                "dishes_step_desc": "加入盐、白糖。"
+            },
+            {
+                "dishes_step_id": "1426",
+                "dishes_id": "249",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_4.jpg",
+                "dishes_step_desc": "拣入洗好的当归。"
+            },
+            {
+                "dishes_step_id": "1427",
+                "dishes_id": "249",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_5.jpg",
+                "dishes_step_desc": "用筷子搅拌均匀。"
+            },
+            {
+                "dishes_step_id": "1428",
+                "dishes_id": "249",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_6.jpg",
+                "dishes_step_desc": "倒入白醋和450毫升的矿泉水。"
+            },
+            {
+                "dishes_step_id": "1429",
+                "dishes_id": "249",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_7.jpg",
+                "dishes_step_desc": "将碗中材料转到玻璃罐中。"
+            },
+            {
+                "dishes_step_id": "1430",
+                "dishes_id": "249",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_8.jpg",
+                "dishes_step_desc": "加盖密封，需置于阴凉处浸泡3天。"
+            },
+            {
+                "dishes_step_id": "1431",
+                "dishes_id": "249",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321172513_9.jpg",
+                "dishes_step_desc": "泡菜制成，取出装盘即可食用。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

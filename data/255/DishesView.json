@@ -1,0 +1,126 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543898954000,
+    "data": {
+        "dashes_id": "255",
+        "dashes_name": "泡荷兰豆",
+        "material_video": "http://video.szzhangchu.com/paohelandouA.mp4",
+        "process_video": "http://video.szzhangchu.com/paohelandouB.mp4",
+        "hard_level": "容易",
+        "taste": "酸",
+        "cooke_time": "7天",
+        "image": "http://img.szzhangchu.com/1439346299878_6623275165.jpg",
+        "material_desc": "炒，煸，拌，荷兰豆你早吃腻了吧，试试泡吧，别具一格的风味",
+        "share_amount": "0",
+        "dishes_name": "泡荷兰豆",
+        "dishes_title": "泡泡更健康，泡泡更营养",
+        "dishes_id": "255",
+        "cooking_time": "7天",
+        "collect_count": "2055",
+        "click_count": "4654",
+        "create_date": "2002-11-12",
+        "last_update": "2018-12-04",
+        "comment_count": "0",
+        "agreement_amount": "177",
+        "tags_info": [
+            {
+                "id": 290,
+                "text": "提神健脑",
+                "type": 1
+            },
+            {
+                "id": 144,
+                "text": "蔬菜",
+                "type": 1
+            },
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            },
+            {
+                "id": 316,
+                "text": "酸",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=255",
+        "step": [
+            {
+                "dishes_step_id": "1482",
+                "dishes_id": "255",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_0.jpg",
+                "dishes_step_desc": "将洗好的荷兰豆装入碗中。"
+            },
+            {
+                "dishes_step_id": "1483",
+                "dishes_id": "255",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_1.jpg",
+                "dishes_step_desc": "加入盐、白糖。"
+            },
+            {
+                "dishes_step_id": "1484",
+                "dishes_id": "255",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_2.jpg",
+                "dishes_step_desc": "再放入洗净的蒜头。"
+            },
+            {
+                "dishes_step_id": "1485",
+                "dishes_id": "255",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_3.jpg",
+                "dishes_step_desc": "倒入白酒、白醋。"
+            },
+            {
+                "dishes_step_id": "1486",
+                "dishes_id": "255",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_4.jpg",
+                "dishes_step_desc": "用筷子充分拌匀。"
+            },
+            {
+                "dishes_step_id": "1487",
+                "dishes_id": "255",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_5.jpg",
+                "dishes_step_desc": "将拌好的材料转入玻璃罐中。"
+            },
+            {
+                "dishes_step_id": "1488",
+                "dishes_id": "255",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_6.jpg",
+                "dishes_step_desc": "压实压紧,再拧上盖子，密封7天。"
+            },
+            {
+                "dishes_step_id": "1489",
+                "dishes_id": "255",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_7.jpg",
+                "dishes_step_desc": "取来玻璃罐，打开盖子。"
+            },
+            {
+                "dishes_step_id": "1490",
+                "dishes_id": "255",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_8.jpg",
+                "dishes_step_desc": "夹出泡好的荷兰豆。"
+            },
+            {
+                "dishes_step_id": "1491",
+                "dishes_id": "255",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322140829_9.jpg",
+                "dishes_step_desc": "装好盘，食用即可。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

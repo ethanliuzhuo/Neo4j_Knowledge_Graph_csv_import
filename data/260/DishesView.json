@@ -1,0 +1,112 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543911799000,
+    "data": {
+        "dashes_id": "260",
+        "dashes_name": "绿豆沙",
+        "material_video": "http://video.szzhangchu.com/lvdoushaA.mp4",
+        "process_video": "http://video.szzhangchu.com/lvdoushaB.mp4",
+        "hard_level": "容易",
+        "taste": "甜",
+        "cooke_time": "45分钟",
+        "image": "http://img.szzhangchu.com/1439523314921_8257083250.jpg",
+        "material_desc": "从小喝到大，于是有了这样的感觉：没有绿豆沙的夏天，似乎是不完整的夏天。",
+        "share_amount": "0",
+        "dishes_name": "绿豆沙",
+        "dishes_title": "清凉降暑，人尽皆知",
+        "dishes_id": "260",
+        "cooking_time": "45分钟",
+        "collect_count": "67394",
+        "click_count": "26944",
+        "create_date": "2002-11-14",
+        "last_update": "2018-12-04",
+        "comment_count": "3",
+        "agreement_amount": "1305",
+        "tags_info": [
+            {
+                "id": 332,
+                "text": "煮",
+                "type": 1
+            },
+            {
+                "id": 196,
+                "text": "绿豆",
+                "type": 1
+            },
+            {
+                "id": 179,
+                "text": "甜品汤",
+                "type": 1
+            },
+            {
+                "id": 317,
+                "text": "甜",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=260",
+        "step": [
+            {
+                "dishes_step_id": "1542",
+                "dishes_id": "260",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_0.jpg",
+                "dishes_step_desc": "锅中加入约1000毫升清水，用大火煮沸。"
+            },
+            {
+                "dishes_step_id": "1543",
+                "dishes_id": "260",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_1.jpg",
+                "dishes_step_desc": "倒入洗好的绿豆。"
+            },
+            {
+                "dishes_step_id": "1544",
+                "dishes_id": "260",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_2.jpg",
+                "dishes_step_desc": "盖上锅盖，用慢火煮约40分钟至皮裂开。"
+            },
+            {
+                "dishes_step_id": "1545",
+                "dishes_id": "260",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_3.jpg",
+                "dishes_step_desc": "揭开盖子，用漏勺沥出较粗的颗粒。"
+            },
+            {
+                "dishes_step_id": "1546",
+                "dishes_id": "260",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_4.jpg",
+                "dishes_step_desc": "加入冰糖。"
+            },
+            {
+                "dishes_step_id": "1547",
+                "dishes_id": "260",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_5.jpg",
+                "dishes_step_desc": "揭盖，小火续煮约3分钟至完全融化。"
+            },
+            {
+                "dishes_step_id": "1548",
+                "dishes_id": "260",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_6.jpg",
+                "dishes_step_desc": "揭开锅盖，加入水淀粉，拌匀勾芡。"
+            },
+            {
+                "dishes_step_id": "1549",
+                "dishes_id": "260",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322155113_7.jpg",
+                "dishes_step_desc": "将做好的绿豆沙盛出即可。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

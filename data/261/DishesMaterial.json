@@ -1,0 +1,25 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543912644000,
+    "data": {
+        "material_image": "http://img.szzhangchu.com/ylzt_20130322161527988.jpg",
+        "material": [
+            {
+                "material_name": "黑米",
+                "material_weight": "100克"
+            },
+            {
+                "material_name": "红糖",
+                "material_weight": "25克"
+            }
+        ],
+        "spices": [
+            {
+                "title": "红糖",
+                "image": "http://img.szzhangchu.com/1446302107337_7684944137.jpg"
+            }
+        ]
+    }
+}

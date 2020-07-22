@@ -1,0 +1,173 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543916092000,
+    "data": {
+        "dashes_id": "259",
+        "dashes_name": "南北杏炖双雪",
+        "material_video": "http://video.szzhangchu.com/nanbeixingdunshuangxueA.mp4",
+        "process_video": "http://video.szzhangchu.com/nanbeixingdunshuangxueB.mp4",
+        "hard_level": "一般",
+        "taste": "甜",
+        "cooke_time": "30分钟",
+        "image": "http://img.szzhangchu.com/1439346393313_4193061574.jpg",
+        "material_desc": "重点说银耳：银耳富含天然特性胶质，加上它具有滋阴作用，所以长期食用可以润肤，并有祛除脸部黄褐斑、雀斑的功效。",
+        "share_amount": "0",
+        "dishes_name": "南北杏炖双雪",
+        "dishes_title": "还有什么比药膳汤更滋养",
+        "dishes_id": "259",
+        "cooking_time": "30分钟",
+        "collect_count": "21172",
+        "click_count": "18812",
+        "create_date": "2002-11-14",
+        "last_update": "2018-12-04",
+        "comment_count": "8",
+        "agreement_amount": "790",
+        "tags_info": [
+            {
+                "id": 179,
+                "text": "甜品汤",
+                "type": 1
+            },
+            {
+                "id": 296,
+                "text": "益气补血",
+                "type": 1
+            },
+            {
+                "id": 388,
+                "text": "养生餐",
+                "type": 1
+            },
+            {
+                "id": 331,
+                "text": "炖",
+                "type": 1
+            },
+            {
+                "id": 317,
+                "text": "甜",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=259",
+        "step": [
+            {
+                "dishes_step_id": "1526",
+                "dishes_id": "259",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_0.jpg",
+                "dishes_step_desc": "将洗好的银耳切碎。"
+            },
+            {
+                "dishes_step_id": "1527",
+                "dishes_id": "259",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_1.jpg",
+                "dishes_step_desc": "洗净的雪梨去皮。"
+            },
+            {
+                "dishes_step_id": "1528",
+                "dishes_id": "259",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_2.jpg",
+                "dishes_step_desc": "将果肉切成瓣后去核。"
+            },
+            {
+                "dishes_step_id": "1529",
+                "dishes_id": "259",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_3.jpg",
+                "dishes_step_desc": "再改切成小块儿。"
+            },
+            {
+                "dishes_step_id": "1530",
+                "dishes_id": "259",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_4.jpg",
+                "dishes_step_desc": "将切好的雪梨浸于清水中，切好的银耳放碗中，备用。"
+            },
+            {
+                "dishes_step_id": "1531",
+                "dishes_id": "259",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_5.jpg",
+                "dishes_step_desc": "锅中倒入约1000毫升清水，用大火煮沸。"
+            },
+            {
+                "dishes_step_id": "1532",
+                "dishes_id": "259",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_6.jpg",
+                "dishes_step_desc": "将洗净的北杏倒入锅中。"
+            },
+            {
+                "dishes_step_id": "1533",
+                "dishes_id": "259",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_7.jpg",
+                "dishes_step_desc": "再倒入南杏。"
+            },
+            {
+                "dishes_step_id": "1534",
+                "dishes_id": "259",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_8.jpg",
+                "dishes_step_desc": "接着倒入银耳。"
+            },
+            {
+                "dishes_step_id": "1535",
+                "dishes_id": "259",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_9.jpg",
+                "dishes_step_desc": "盖上锅盖，转成慢火煮约15分钟至熟透。"
+            },
+            {
+                "dishes_step_id": "1536",
+                "dishes_id": "259",
+                "dishes_step_order": "11",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_10.jpg",
+                "dishes_step_desc": "揭开盖子，放入雪梨。"
+            },
+            {
+                "dishes_step_id": "1537",
+                "dishes_id": "259",
+                "dishes_step_order": "12",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_11.jpg",
+                "dishes_step_desc": "转小火续煮约10分钟至熟软。"
+            },
+            {
+                "dishes_step_id": "1538",
+                "dishes_id": "259",
+                "dishes_step_order": "13",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_12.jpg",
+                "dishes_step_desc": "揭盖后放入白糖。"
+            },
+            {
+                "dishes_step_id": "1539",
+                "dishes_id": "259",
+                "dishes_step_order": "14",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_13.jpg",
+                "dishes_step_desc": "用汤勺拌匀，再煮约2分钟至白糖完全溶化。"
+            },
+            {
+                "dishes_step_id": "1540",
+                "dishes_id": "259",
+                "dishes_step_order": "15",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_14.jpg",
+                "dishes_step_desc": "将煮好的材料盛入碗中。"
+            },
+            {
+                "dishes_step_id": "1541",
+                "dishes_id": "259",
+                "dishes_step_order": "16",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322153956_15.jpg",
+                "dishes_step_desc": "待凉后即可饮用。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

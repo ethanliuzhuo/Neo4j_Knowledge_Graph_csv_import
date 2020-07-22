@@ -1,0 +1,101 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543916092000,
+    "data": {
+        "material": {
+            "material_id": "755",
+            "material_name": "梨子",
+            "image": "http://img.szzhangchu.com/1439643246499_2620168960.jpg",
+            "suitable_not_with": [
+                {
+                    "material_id": "36",
+                    "material_name": "白萝卜",
+                    "type": "1",
+                    "suitable_desc": "易诱发甲状腺肿大",
+                    "image": "http://img.szzhangchu.com/20141107102837569.jpg"
+                },
+                {
+                    "material_id": "123",
+                    "material_name": "羊肉",
+                    "type": "1",
+                    "suitable_desc": "消化不良",
+                    "image": "http://img.szzhangchu.com/20141107103156474.jpg"
+                },
+                {
+                    "material_id": "168",
+                    "material_name": "螃蟹",
+                    "type": "1",
+                    "suitable_desc": "引起腹泻，损伤肠胃",
+                    "image": "http://img.szzhangchu.com/20141107095450295.jpg"
+                },
+                {
+                    "material_id": "489",
+                    "material_name": "鹅肉",
+                    "type": "1",
+                    "suitable_desc": "增加肾的负担",
+                    "image": "http://img.szzhangchu.com/1439726085063_2373353066.jpg"
+                },
+                {
+                    "material_id": "750",
+                    "material_name": "开水",
+                    "type": "1",
+                    "suitable_desc": "刺激肠胃，导致腹泻",
+                    "image": "http://img.szzhangchu.com/20130130092053_0.jpg"
+                }
+            ],
+            "suitable_with": [
+                {
+                    "material_id": "53",
+                    "material_name": "生姜",
+                    "type": "0",
+                    "suitable_desc": "止咳去痰",
+                    "image": "http://img.szzhangchu.com/20150518151740428.jpg"
+                },
+                {
+                    "material_id": "90",
+                    "material_name": "银耳",
+                    "type": "0",
+                    "suitable_desc": "润肺止咳",
+                    "image": "http://img.szzhangchu.com/20141107101138139.jpg"
+                },
+                {
+                    "material_id": "117",
+                    "material_name": "猪肺",
+                    "type": "0",
+                    "suitable_desc": "清热润肺、助消化",
+                    "image": "http://img.szzhangchu.com/2015051815355503.jpg"
+                },
+                {
+                    "material_id": "213",
+                    "material_name": "核桃",
+                    "type": "0",
+                    "suitable_desc": "清热解毒、辅助治疗百日咳",
+                    "image": "http://img.szzhangchu.com/20150518163942489.jpg"
+                },
+                {
+                    "material_id": "311",
+                    "material_name": "蜂蜜",
+                    "type": "0",
+                    "suitable_desc": "缓解咳嗽",
+                    "image": "http://img.szzhangchu.com/20150116162344816.jpg"
+                },
+                {
+                    "material_id": "517",
+                    "material_name": "丁香",
+                    "type": "0",
+                    "suitable_desc": "营养丰富",
+                    "image": "http://img.szzhangchu.com/1439698359343_4942184138.jpg"
+                },
+                {
+                    "material_id": "821",
+                    "material_name": "冰糖",
+                    "type": "0",
+                    "suitable_desc": "润肺解毒",
+                    "image": "http://img.szzhangchu.com/20130118172910_0.jpg"
+                }
+            ]
+        }
+    }
+}

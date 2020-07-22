@@ -1,0 +1,145 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543915294000,
+    "data": {
+        "dashes_id": "248",
+        "dashes_name": "白芍药泡双耳",
+        "material_video": "http://video.szzhangchu.com/baishaoyaopaoshuangerA.mp4",
+        "process_video": "http://video.szzhangchu.com/baishaoyaopaoshuangerB.mp4",
+        "hard_level": "一般",
+        "taste": "甜",
+        "cooke_time": "1天",
+        "image": "http://img.szzhangchu.com/1439346148075_5850636861.jpg",
+        "material_desc": "木耳银耳，黑白搭配，效果加倍！木耳清肠排毒，银耳补充胶原蛋白。养颜效果的加倍，食用后，自然带来由内而外的美咯。",
+        "share_amount": "0",
+        "dishes_name": "白芍药泡双耳",
+        "dishes_title": "经典黑白搭配，养颜效果加倍",
+        "dishes_id": "248",
+        "cooking_time": "1天",
+        "collect_count": "2247",
+        "click_count": "7332",
+        "create_date": "2002-11-10",
+        "last_update": "2018-12-04",
+        "comment_count": "0",
+        "agreement_amount": "219",
+        "tags_info": [
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            },
+            {
+                "id": 290,
+                "text": "提神健脑",
+                "type": 1
+            },
+            {
+                "id": 161,
+                "text": "菌菇类",
+                "type": 1
+            },
+            {
+                "id": 145,
+                "text": "菌菇",
+                "type": 1
+            },
+            {
+                "id": 316,
+                "text": "酸",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=248",
+        "step": [
+            {
+                "dishes_step_id": "1410",
+                "dishes_id": "248",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_0.jpg",
+                "dishes_step_desc": "将洗好的银耳切块。"
+            },
+            {
+                "dishes_step_id": "1411",
+                "dishes_id": "248",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_1.jpg",
+                "dishes_step_desc": "洗净的木耳切小块。"
+            },
+            {
+                "dishes_step_id": "1412",
+                "dishes_id": "248",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_2.jpg",
+                "dishes_step_desc": "锅中加入适量清水烧开。"
+            },
+            {
+                "dishes_step_id": "1413",
+                "dishes_id": "248",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_3.jpg",
+                "dishes_step_desc": "放入木耳煮沸。"
+            },
+            {
+                "dishes_step_id": "1414",
+                "dishes_id": "248",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_4.jpg",
+                "dishes_step_desc": "再放入银耳拌匀。"
+            },
+            {
+                "dishes_step_id": "1415",
+                "dishes_id": "248",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_5.jpg",
+                "dishes_step_desc": "用中火煮至熟透。"
+            },
+            {
+                "dishes_step_id": "1416",
+                "dishes_id": "248",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_6.jpg",
+                "dishes_step_desc": "将煮熟的木耳、银耳用漏勺捞出，放碗中。"
+            },
+            {
+                "dishes_step_id": "1417",
+                "dishes_id": "248",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_7.jpg",
+                "dishes_step_desc": "碗中倒入洗净的白芍药。"
+            },
+            {
+                "dishes_step_id": "1418",
+                "dishes_id": "248",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_8.jpg",
+                "dishes_step_desc": "加入盐、白糖、白醋。"
+            },
+            {
+                "dishes_step_id": "1419",
+                "dishes_id": "248",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_9.jpg",
+                "dishes_step_desc": "用筷子拌约1分钟至糖分融化。"
+            },
+            {
+                "dishes_step_id": "1420",
+                "dishes_id": "248",
+                "dishes_step_order": "11",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_10.jpg",
+                "dishes_step_desc": "将搅拌好的材料放入玻璃罐中，加盖密封1天。"
+            },
+            {
+                "dishes_step_id": "1421",
+                "dishes_id": "248",
+                "dishes_step_order": "12",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321164849_11.jpg",
+                "dishes_step_desc": "泡菜制成，取出食用即可。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

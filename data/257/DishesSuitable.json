@@ -1,0 +1,87 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898959000,
+    "data": {
+        "material": {
+            "material_id": "47",
+            "material_name": "洋葱",
+            "image": "http://img.szzhangchu.com/20141107095705968.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "48",
+                    "material_name": "玉米",
+                    "type": "0",
+                    "suitable_desc": "降压降脂",
+                    "image": "http://img.szzhangchu.com/20150413100811690.jpg"
+                },
+                {
+                    "material_id": "181",
+                    "material_name": "苹果",
+                    "type": "0",
+                    "suitable_desc": "降压降脂",
+                    "image": "http://img.szzhangchu.com/20141107104400193.jpg"
+                },
+                {
+                    "material_id": "389",
+                    "material_name": "红酒",
+                    "type": "0",
+                    "suitable_desc": "降压降糖",
+                    "image": "http://img.szzhangchu.com/20150530161545629.jpg"
+                },
+                {
+                    "material_id": "783",
+                    "material_name": "醋",
+                    "type": "0",
+                    "suitable_desc": "辅助治疗咽喉肿痛",
+                    "image": "http://img.szzhangchu.com/1439950351378_4445403554.jpg"
+                },
+                {
+                    "material_id": "799",
+                    "material_name": "蒜",
+                    "type": "0",
+                    "suitable_desc": "防癌抗癌，消炎杀菌",
+                    "image": "http://img.szzhangchu.com/1439804688622_9218018407.jpg"
+                },
+                {
+                    "material_id": "56",
+                    "material_name": "苦瓜",
+                    "type": "0",
+                    "suitable_desc": "增强免疫力",
+                    "image": "http://img.szzhangchu.com/20141107105055921.jpg"
+                },
+                {
+                    "material_id": "138",
+                    "material_name": "鸡蛋",
+                    "type": "0",
+                    "suitable_desc": "促进人体对维生素C和维生素E的吸收",
+                    "image": "http://img.szzhangchu.com/2014110710253590.jpg"
+                },
+                {
+                    "material_id": "488",
+                    "material_name": "鸡肉",
+                    "type": "0",
+                    "suitable_desc": "延缓衰老",
+                    "image": "http://img.szzhangchu.com/1439643177463_8570501229.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "74",
+                    "material_name": "黄豆",
+                    "type": "1",
+                    "suitable_desc": "降低钙吸收",
+                    "image": "http://img.szzhangchu.com/20141107103349640.jpg"
+                },
+                {
+                    "material_id": "311",
+                    "material_name": "蜂蜜",
+                    "type": "1",
+                    "suitable_desc": "对眼睛不利",
+                    "image": "http://img.szzhangchu.com/20150116162344816.jpg"
+                }
+            ]
+        }
+    }
+}

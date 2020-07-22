@@ -1,0 +1,145 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543898958000,
+    "data": {
+        "dashes_id": "257",
+        "dashes_name": "绝味泡双椒",
+        "material_video": "http://video.szzhangchu.com/jueweipaoshuangjiaoA.mp4",
+        "process_video": "http://video.szzhangchu.com/jueweipaoshuangjiaoB.mp4",
+        "hard_level": "容易",
+        "taste": "辣",
+        "cooke_time": "7天",
+        "image": "http://img.szzhangchu.com/1439346355297_9561556892.jpg",
+        "material_desc": "可单独吃，也可用来调味。泡好之后，不管做什么菜，加入你要的量绝对锦上添花。",
+        "share_amount": "0",
+        "dishes_name": "绝味泡双椒",
+        "dishes_title": "看菜名就知道味道不俗～",
+        "dishes_id": "257",
+        "cooking_time": "7天",
+        "collect_count": "13386",
+        "click_count": "9457",
+        "create_date": "2002-11-13",
+        "last_update": "2018-12-04",
+        "comment_count": "1",
+        "agreement_amount": "282",
+        "tags_info": [
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            },
+            {
+                "id": 163,
+                "text": "瓜果类",
+                "type": 1
+            },
+            {
+                "id": 144,
+                "text": "蔬菜",
+                "type": 1
+            },
+            {
+                "id": 314,
+                "text": "健胃消食",
+                "type": 1
+            },
+            {
+                "id": 319,
+                "text": "辣",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=257",
+        "step": [
+            {
+                "dishes_step_id": "1504",
+                "dishes_id": "257",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_0.jpg",
+                "dishes_step_desc": "洗好的红椒切成小段。"
+            },
+            {
+                "dishes_step_id": "1505",
+                "dishes_id": "257",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_1.jpg",
+                "dishes_step_desc": "洗净的青椒切成小段。"
+            },
+            {
+                "dishes_step_id": "1506",
+                "dishes_id": "257",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_2.jpg",
+                "dishes_step_desc": "把已去皮洗净的洋葱切成片儿。"
+            },
+            {
+                "dishes_step_id": "1507",
+                "dishes_id": "257",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_3.jpg",
+                "dishes_step_desc": "将切好的红椒和青椒放入碗中。"
+            },
+            {
+                "dishes_step_id": "1508",
+                "dishes_id": "257",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_4.jpg",
+                "dishes_step_desc": "加入盐、白糖、白酒和白醋。"
+            },
+            {
+                "dishes_step_id": "1509",
+                "dishes_id": "257",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_5.jpg",
+                "dishes_step_desc": "再倒入300毫升矿泉水。"
+            },
+            {
+                "dishes_step_id": "1510",
+                "dishes_id": "257",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_6.jpg",
+                "dishes_step_desc": "用筷子充分拌匀。"
+            },
+            {
+                "dishes_step_id": "1511",
+                "dishes_id": "257",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_7.jpg",
+                "dishes_step_desc": "倒入蒜头和切好的洋葱。"
+            },
+            {
+                "dishes_step_id": "1512",
+                "dishes_id": "257",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_8.jpg",
+                "dishes_step_desc": "用筷子搅拌至入味。"
+            },
+            {
+                "dishes_step_id": "1513",
+                "dishes_id": "257",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_9.jpg",
+                "dishes_step_desc": "将拌好的材料装入玻璃罐中。"
+            },
+            {
+                "dishes_step_id": "1514",
+                "dishes_id": "257",
+                "dishes_step_order": "11",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_10.jpg",
+                "dishes_step_desc": "盖上盖子，拧紧，置于阴凉处浸泡7天。"
+            },
+            {
+                "dishes_step_id": "1515",
+                "dishes_id": "257",
+                "dishes_step_order": "12",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322144558_11.jpg",
+                "dishes_step_desc": "泡菜制成，取出食用即可。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

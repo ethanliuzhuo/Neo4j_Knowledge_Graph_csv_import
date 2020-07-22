@@ -1,0 +1,73 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543914184000,
+    "data": {
+        "material": {
+            "material_id": "46",
+            "material_name": "莴笋",
+            "image": "http://img.szzhangchu.com/20150420090314332.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "21",
+                    "material_name": "蒜苗",
+                    "type": "0",
+                    "suitable_desc": "可以预防高血压",
+                    "image": "http://img.szzhangchu.com/2015051815084692.jpg"
+                },
+                {
+                    "material_id": "89",
+                    "material_name": "黑木耳",
+                    "type": "0",
+                    "suitable_desc": "具有降低血压、降低血脂的功效",
+                    "image": "http://img.szzhangchu.com/20141107165143482.jpg"
+                },
+                {
+                    "material_id": "91",
+                    "material_name": "竹荪",
+                    "type": "0",
+                    "suitable_desc": "可辅助治疗肺热痰火、脾胃滞气等症状",
+                    "image": "http://img.szzhangchu.com/20150413102154874.jpg"
+                },
+                {
+                    "material_id": "788",
+                    "material_name": "豆干",
+                    "type": "0",
+                    "suitable_desc": "具有强壮筋骨、通乳通便的功效",
+                    "image": "http://img.szzhangchu.com/1439718919272_7387895132.jpg"
+                },
+                {
+                    "material_id": "92",
+                    "material_name": "香菇",
+                    "type": "0",
+                    "suitable_desc": "利尿通便、降脂降压",
+                    "image": "http://img.szzhangchu.com/20141107164744880.jpg"
+                },
+                {
+                    "material_id": "103",
+                    "material_name": "猪肉",
+                    "type": "0",
+                    "suitable_desc": "促进食欲、补脾益气",
+                    "image": "http://img.szzhangchu.com/20141107102317371.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "311",
+                    "material_name": "蜂蜜",
+                    "type": "1",
+                    "suitable_desc": "不利肠胃，易致腹泻",
+                    "image": "http://img.szzhangchu.com/20150116162344816.jpg"
+                },
+                {
+                    "material_id": "378",
+                    "material_name": "奶酪",
+                    "type": "1",
+                    "suitable_desc": "引起消化不良和腹痛",
+                    "image": "http://img.szzhangchu.com/20150530162907434.jpg"
+                }
+            ]
+        }
+    }
+}

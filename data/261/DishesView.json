@@ -1,0 +1,103 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543912644000,
+    "data": {
+        "dashes_id": "261",
+        "dashes_name": "黑米粥",
+        "material_video": "http://video.szzhangchu.com/heimizhouA.mp4",
+        "process_video": "http://video.szzhangchu.com/heimizhouB.mp4",
+        "hard_level": "容易",
+        "taste": "甜",
+        "cooke_time": "45分钟",
+        "image": "http://img.szzhangchu.com/1439346449711_3832670080.jpg",
+        "material_desc": "中医认为黑色入肾，黑色食物大多有补肾的功效。如黑米，黑豆，黑芝麻等。所以简单易做的黑米粥是补肾养身的不二之选。",
+        "share_amount": "0",
+        "dishes_name": "黑米粥",
+        "dishes_title": "补肾强身的粥类佳品",
+        "dishes_id": "261",
+        "cooking_time": "45分钟",
+        "collect_count": "51181",
+        "click_count": "43195",
+        "create_date": "2002-11-14",
+        "last_update": "2018-12-04",
+        "comment_count": "6",
+        "agreement_amount": "2077",
+        "tags_info": [
+            {
+                "id": 223,
+                "text": "粥",
+                "type": 1
+            },
+            {
+                "id": 317,
+                "text": "甜",
+                "type": 1
+            },
+            {
+                "id": 189,
+                "text": "黑米",
+                "type": 1
+            },
+            {
+                "id": 296,
+                "text": "益气补血",
+                "type": 1
+            },
+            {
+                "id": 340,
+                "text": "家庭主妇",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=261",
+        "step": [
+            {
+                "dishes_step_id": "1550",
+                "dishes_id": "261",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322161527_0.jpg",
+                "dishes_step_desc": "锅中倒入约1000毫升清水。"
+            },
+            {
+                "dishes_step_id": "1551",
+                "dishes_id": "261",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322161527_1.jpg",
+                "dishes_step_desc": "倒入洗好的黑米。"
+            },
+            {
+                "dishes_step_id": "1552",
+                "dishes_id": "261",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322161527_2.jpg",
+                "dishes_step_desc": "盖上锅盖，用大火煮沸，然后转成小火，煮约40分钟至熟烂。"
+            },
+            {
+                "dishes_step_id": "1553",
+                "dishes_id": "261",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322161527_3.jpg",
+                "dishes_step_desc": "揭开锅盖，加入红糖。"
+            },
+            {
+                "dishes_step_id": "1554",
+                "dishes_id": "261",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322161527_4.jpg",
+                "dishes_step_desc": "用汤勺拌匀后再煮约2分钟至红糖完全融化。"
+            },
+            {
+                "dishes_step_id": "1555",
+                "dishes_id": "261",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322161527_5.jpg",
+                "dishes_step_desc": "最后，将做好的甜粥盛出即可。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

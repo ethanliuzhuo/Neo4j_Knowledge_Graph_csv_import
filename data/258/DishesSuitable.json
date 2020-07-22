@@ -1,0 +1,66 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898960000,
+    "data": {
+        "material": {
+            "material_id": "62",
+            "material_name": "茄子",
+            "image": "http://img.szzhangchu.com/20141107110900207.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "56",
+                    "material_name": "苦瓜",
+                    "type": "0",
+                    "suitable_desc": "清心明目，可防治心血管疾病",
+                    "image": "http://img.szzhangchu.com/20141107105055921.jpg"
+                },
+                {
+                    "material_id": "74",
+                    "material_name": "黄豆",
+                    "type": "0",
+                    "suitable_desc": "通气顺肠",
+                    "image": "http://img.szzhangchu.com/20141107103349640.jpg"
+                },
+                {
+                    "material_id": "123",
+                    "material_name": "羊肉",
+                    "type": "0",
+                    "suitable_desc": "预防心血管疾病",
+                    "image": "http://img.szzhangchu.com/20141107103156474.jpg"
+                },
+                {
+                    "material_id": "126",
+                    "material_name": "兔肉",
+                    "type": "0",
+                    "suitable_desc": "可保护心血管",
+                    "image": "http://img.szzhangchu.com/1439709913031_9193562813.jpg"
+                },
+                {
+                    "material_id": "103",
+                    "material_name": "猪肉",
+                    "type": "0",
+                    "suitable_desc": "减少人体对猪肉中胆固醇的吸收",
+                    "image": "http://img.szzhangchu.com/20141107102317371.jpg"
+                },
+                {
+                    "material_id": "119",
+                    "material_name": "牛肉",
+                    "type": "0",
+                    "suitable_desc": "强身健体",
+                    "image": "http://img.szzhangchu.com/20141107102627560.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "168",
+                    "material_name": "螃蟹",
+                    "type": "1",
+                    "suitable_desc": "易伤肠胃",
+                    "image": "http://img.szzhangchu.com/20141107095450295.jpg"
+                }
+            ]
+        }
+    }
+}

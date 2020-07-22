@@ -1,0 +1,73 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543911799000,
+    "data": {
+        "material": {
+            "material_id": "75",
+            "material_name": "绿豆",
+            "image": "http://img.szzhangchu.com/20141107103853939.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "60",
+                    "material_name": "南瓜",
+                    "type": "0",
+                    "suitable_desc": "清热解毒，生津止渴",
+                    "image": "http://img.szzhangchu.com/20141107100251102.jpg"
+                },
+                {
+                    "material_id": "309",
+                    "material_name": "燕麦",
+                    "type": "0",
+                    "suitable_desc": "可抑制血糖值上升",
+                    "image": "http://img.szzhangchu.com/20141107105452802.jpg"
+                },
+                {
+                    "material_id": "680",
+                    "material_name": "蒲公英",
+                    "type": "0",
+                    "suitable_desc": "清热解毒、利尿消肿",
+                    "image": "http://img.szzhangchu.com/1440983081223_3286270682.jpg"
+                },
+                {
+                    "material_id": "817",
+                    "material_name": "百合",
+                    "type": "0",
+                    "suitable_desc": "解渴润燥",
+                    "image": "http://img.szzhangchu.com/1439717145360_4987991281.jpg"
+                },
+                {
+                    "material_id": "246",
+                    "material_name": "大米",
+                    "type": "0",
+                    "suitable_desc": "有利于消化吸收",
+                    "image": "http://img.szzhangchu.com/20141107095925575.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "123",
+                    "material_name": "羊肉",
+                    "type": "1",
+                    "suitable_desc": "导致肠胃胀气",
+                    "image": "http://img.szzhangchu.com/20141107103156474.jpg"
+                },
+                {
+                    "material_id": "125",
+                    "material_name": "狗肉",
+                    "type": "1",
+                    "suitable_desc": "导致腹胀、消化不良",
+                    "image": "http://img.szzhangchu.com/20150518155217760.jpg"
+                },
+                {
+                    "material_id": "332",
+                    "material_name": "榛子",
+                    "type": "1",
+                    "suitable_desc": "导致腹泻",
+                    "image": "http://img.szzhangchu.com/2015051816333139.jpg"
+                }
+            ]
+        }
+    }
+}

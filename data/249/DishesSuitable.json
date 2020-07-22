@@ -1,0 +1,157 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543914052000,
+    "data": {
+        "material": {
+            "material_id": "20",
+            "material_name": "芹菜",
+            "image": "http://img.szzhangchu.com/1439643454945_5297162408.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "40",
+                    "material_name": "茭白",
+                    "type": "0",
+                    "suitable_desc": "降低血压",
+                    "image": "http://img.szzhangchu.com/2015051815103094.jpg"
+                },
+                {
+                    "material_id": "123",
+                    "material_name": "羊肉",
+                    "type": "0",
+                    "suitable_desc": "增强免疫力",
+                    "image": "http://img.szzhangchu.com/20141107103156474.jpg"
+                },
+                {
+                    "material_id": "137",
+                    "material_name": "鹌鹑",
+                    "type": "0",
+                    "suitable_desc": "降低血压",
+                    "image": "http://img.szzhangchu.com/20150518161424202.jpg"
+                },
+                {
+                    "material_id": "167",
+                    "material_name": "虾",
+                    "type": "0",
+                    "suitable_desc": "增强免疫力",
+                    "image": "http://img.szzhangchu.com/20141107092335643.jpg"
+                },
+                {
+                    "material_id": "206",
+                    "material_name": "红枣",
+                    "type": "0",
+                    "suitable_desc": "补血养颜",
+                    "image": "http://img.szzhangchu.com/20140904090345337.jpg"
+                },
+                {
+                    "material_id": "212",
+                    "material_name": "花生",
+                    "type": "0",
+                    "suitable_desc": "抗衰老",
+                    "image": "http://img.szzhangchu.com/20150413111004526.jpg"
+                },
+                {
+                    "material_id": "213",
+                    "material_name": "核桃",
+                    "type": "0",
+                    "suitable_desc": "美容养颜，抗衰老",
+                    "image": "http://img.szzhangchu.com/20150518163942489.jpg"
+                },
+                {
+                    "material_id": "695",
+                    "material_name": "藕",
+                    "type": "0",
+                    "suitable_desc": "调理经血",
+                    "image": "http://img.szzhangchu.com/1439721320870_7966303209.jpg"
+                },
+                {
+                    "material_id": "119",
+                    "material_name": "牛肉",
+                    "type": "0",
+                    "suitable_desc": "降低血压",
+                    "image": "http://img.szzhangchu.com/20141107102627560.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "60",
+                    "material_name": "南瓜",
+                    "type": "1",
+                    "suitable_desc": "引起腹胀、腹泻",
+                    "image": "http://img.szzhangchu.com/20141107100251102.jpg"
+                },
+                {
+                    "material_id": "74",
+                    "material_name": "黄豆",
+                    "type": "1",
+                    "suitable_desc": "影响铁的吸收",
+                    "image": "http://img.szzhangchu.com/20141107103349640.jpg"
+                },
+                {
+                    "material_id": "126",
+                    "material_name": "兔肉",
+                    "type": "1",
+                    "suitable_desc": "可能导致脱发",
+                    "image": "http://img.szzhangchu.com/1439709913031_9193562813.jpg"
+                },
+                {
+                    "material_id": "168",
+                    "material_name": "螃蟹",
+                    "type": "1",
+                    "suitable_desc": "引起腹泻",
+                    "image": "http://img.szzhangchu.com/20141107095450295.jpg"
+                },
+                {
+                    "material_id": "171",
+                    "material_name": "生蚝",
+                    "type": "1",
+                    "suitable_desc": "降低锌的吸收",
+                    "image": "http://img.szzhangchu.com/1439717557205_2612970605.jpg"
+                },
+                {
+                    "material_id": "174",
+                    "material_name": "蛤蜊",
+                    "type": "1",
+                    "suitable_desc": "引起腹泻",
+                    "image": "http://img.szzhangchu.com/1439717665276_1043132114.jpg"
+                },
+                {
+                    "material_id": "702",
+                    "material_name": "蚬子",
+                    "type": "1",
+                    "suitable_desc": "引起腹泻",
+                    "image": "http://img.szzhangchu.com/1439717645026_8229291530.jpg"
+                },
+                {
+                    "material_id": "783",
+                    "material_name": "醋",
+                    "type": "1",
+                    "suitable_desc": "损坏牙齿",
+                    "image": "http://img.szzhangchu.com/1439950351378_4445403554.jpg"
+                },
+                {
+                    "material_id": "808",
+                    "material_name": "甲鱼（水鱼）",
+                    "type": "1",
+                    "suitable_desc": "或有中毒反应",
+                    "image": "http://img.szzhangchu.com/20130118170110_0.jpg"
+                },
+                {
+                    "material_id": "55",
+                    "material_name": "黄瓜",
+                    "type": "1",
+                    "suitable_desc": "破坏维生素C",
+                    "image": "http://img.szzhangchu.com/20141107104529623.jpg"
+                },
+                {
+                    "material_id": "488",
+                    "material_name": "鸡肉",
+                    "type": "1",
+                    "suitable_desc": "伤元气",
+                    "image": "http://img.szzhangchu.com/1439643177463_8570501229.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543898949000,
+    "data": {
+        "dashes_id": "253",
+        "dashes_name": "泡西蓝花",
+        "material_video": "http://video.szzhangchu.com/paoxilanhuaA.mp4",
+        "process_video": "http://video.szzhangchu.com/paoxilanhuaB.mp4",
+        "hard_level": "容易",
+        "taste": "酸",
+        "cooke_time": "7天",
+        "image": "http://img.szzhangchu.com/1439346261918_3546540349.jpg",
+        "material_desc": "西蓝花的抗氧化功效路人皆知。泡出来的西蓝花是什么味道呢，热爱研究黑暗料理的你不会错过吧～～",
+        "share_amount": "0",
+        "dishes_name": "泡西蓝花",
+        "dishes_title": "蔬菜之王的别样做法",
+        "dishes_id": "253",
+        "cooking_time": "7天",
+        "collect_count": "8866",
+        "click_count": "13660",
+        "create_date": "2002-11-12",
+        "last_update": "2018-12-04",
+        "comment_count": "1",
+        "agreement_amount": "265",
+        "tags_info": [
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            },
+            {
+                "id": 289,
+                "text": "增强免疫力",
+                "type": 1
+            },
+            {
+                "id": 144,
+                "text": "蔬菜",
+                "type": 1
+            },
+            {
+                "id": 340,
+                "text": "家庭主妇",
+                "type": 1
+            },
+            {
+                "id": 316,
+                "text": "酸",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=253",
+        "step": [
+            {
+                "dishes_step_id": "1462",
+                "dishes_id": "253",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_0.jpg",
+                "dishes_step_desc": "将洗好的西蓝花切成小朵。"
+            },
+            {
+                "dishes_step_id": "1463",
+                "dishes_id": "253",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_1.jpg",
+                "dishes_step_desc": "锅中倒入约1000毫升清水烧开。"
+            },
+            {
+                "dishes_step_id": "1464",
+                "dishes_id": "253",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_2.jpg",
+                "dishes_step_desc": "放入西蓝花拌匀，煮约2分钟至七成熟。"
+            },
+            {
+                "dishes_step_id": "1465",
+                "dishes_id": "253",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_3.jpg",
+                "dishes_step_desc": "用漏勺取出西蓝花，盛碗中。"
+            },
+            {
+                "dishes_step_id": "1466",
+                "dishes_id": "253",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_4.jpg",
+                "dishes_step_desc": "碗中加入洗净的红辣椒和蒜头拌匀。"
+            },
+            {
+                "dishes_step_id": "1467",
+                "dishes_id": "253",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_5.jpg",
+                "dishes_step_desc": "加盐、白糖、白醋拌匀。"
+            },
+            {
+                "dishes_step_id": "1468",
+                "dishes_id": "253",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_6.jpg",
+                "dishes_step_desc": "将拌好材料盛入玻璃坛中。"
+            },
+            {
+                "dishes_step_id": "1469",
+                "dishes_id": "253",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_7.jpg",
+                "dishes_step_desc": "盖上盖子，淋上少许清水，密封坛口，置于阴凉处浸泡7天。（适温6～10℃）"
+            },
+            {
+                "dishes_step_id": "1470",
+                "dishes_id": "253",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_8.jpg",
+                "dishes_step_desc": "将腌渍好的西蓝花取出。"
+            },
+            {
+                "dishes_step_id": "1471",
+                "dishes_id": "253",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322134545_9.jpg",
+                "dishes_step_desc": "装好盘，即可食用。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

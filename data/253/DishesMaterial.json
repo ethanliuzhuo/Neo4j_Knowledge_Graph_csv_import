@@ -1,0 +1,45 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898950000,
+    "data": {
+        "material_image": "http://img.szzhangchu.com/ylzt_20130322134545861.jpg",
+        "material": [
+            {
+                "material_name": "西蓝花",
+                "material_weight": "300克"
+            },
+            {
+                "material_name": "红辣椒、蒜头",
+                "material_weight": "各少许"
+            },
+            {
+                "material_name": "盐",
+                "material_weight": "30克"
+            },
+            {
+                "material_name": "白醋",
+                "material_weight": "25毫升"
+            },
+            {
+                "material_name": "白糖",
+                "material_weight": "10克"
+            }
+        ],
+        "spices": [
+            {
+                "title": "盐",
+                "image": "http://img.szzhangchu.com/1446302300109_3829074140.jpg"
+            },
+            {
+                "title": "白糖",
+                "image": "http://img.szzhangchu.com/1445083290679_7713822686.jpg"
+            },
+            {
+                "title": "白醋",
+                "image": "http://img.szzhangchu.com/1442404439252_9197095026.jpg"
+            }
+        ]
+    }
+}

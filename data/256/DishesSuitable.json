@@ -1,0 +1,129 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898956000,
+    "data": {
+        "material": {
+            "material_id": "55",
+            "material_name": "黄瓜",
+            "image": "http://img.szzhangchu.com/20141107104529623.jpg",
+            "suitable_not_with": [
+                {
+                    "material_id": "2",
+                    "material_name": "菠菜",
+                    "type": "1",
+                    "suitable_desc": "降低营养价值",
+                    "image": "http://img.szzhangchu.com/20141107110043154.jpg"
+                },
+                {
+                    "material_id": "5",
+                    "material_name": "小白菜",
+                    "type": "1",
+                    "suitable_desc": "降低营养价值",
+                    "image": "http://img.szzhangchu.com/20141107103757137.jpg"
+                },
+                {
+                    "material_id": "27",
+                    "material_name": "香菜",
+                    "type": "1",
+                    "suitable_desc": "降低营养价值",
+                    "image": "http://img.szzhangchu.com/1439643642583_4244264295.jpg"
+                },
+                {
+                    "material_id": "34",
+                    "material_name": "花菜",
+                    "type": "1",
+                    "suitable_desc": "破坏维生素C",
+                    "image": "http://img.szzhangchu.com/20150418105815428.jpg"
+                },
+                {
+                    "material_id": "212",
+                    "material_name": "花生",
+                    "type": "1",
+                    "suitable_desc": "引发腹泻",
+                    "image": "http://img.szzhangchu.com/20150413111004526.jpg"
+                },
+                {
+                    "material_id": "774",
+                    "material_name": "橘子（柑橘）",
+                    "type": "1",
+                    "suitable_desc": "破坏维生素C",
+                    "image": "http://img.szzhangchu.com/1441094089302_6478118436.jpg"
+                }
+            ],
+            "suitable_with": [
+                {
+                    "material_id": "19",
+                    "material_name": "木耳菜",
+                    "type": "0",
+                    "suitable_desc": "减肥塑身",
+                    "image": "http://img.szzhangchu.com/1439714569042_8722064971.jpg"
+                },
+                {
+                    "material_id": "33",
+                    "material_name": "黄花菜",
+                    "type": "0",
+                    "suitable_desc": "可改善不良情绪",
+                    "image": "http://img.szzhangchu.com/20150420090832416.jpg"
+                },
+                {
+                    "material_id": "81",
+                    "material_name": "豆腐",
+                    "type": "0",
+                    "suitable_desc": "降低血脂",
+                    "image": "http://img.szzhangchu.com/20141107103210151.jpg"
+                },
+                {
+                    "material_id": "89",
+                    "material_name": "黑木耳",
+                    "type": "0",
+                    "suitable_desc": "排毒瘦身，补血养颜",
+                    "image": "http://img.szzhangchu.com/20141107165143482.jpg"
+                },
+                {
+                    "material_id": "161",
+                    "material_name": "鱿鱼",
+                    "type": "0",
+                    "suitable_desc": "增强免疫力",
+                    "image": "http://img.szzhangchu.com/1439725435375_5984453964.jpg"
+                },
+                {
+                    "material_id": "167",
+                    "material_name": "虾",
+                    "type": "0",
+                    "suitable_desc": "保肝护肾",
+                    "image": "http://img.szzhangchu.com/20141107092335643.jpg"
+                },
+                {
+                    "material_id": "311",
+                    "material_name": "蜂蜜",
+                    "type": "0",
+                    "suitable_desc": "润肠通便，清热解毒",
+                    "image": "http://img.szzhangchu.com/20150116162344816.jpg"
+                },
+                {
+                    "material_id": "783",
+                    "material_name": "醋",
+                    "type": "0",
+                    "suitable_desc": "开胃消食",
+                    "image": "http://img.szzhangchu.com/1439950351378_4445403554.jpg"
+                },
+                {
+                    "material_id": "799",
+                    "material_name": "蒜",
+                    "type": "0",
+                    "suitable_desc": "排毒瘦身",
+                    "image": "http://img.szzhangchu.com/1439804688622_9218018407.jpg"
+                },
+                {
+                    "material_id": "157",
+                    "material_name": "乌龟",
+                    "type": "0",
+                    "suitable_desc": "健脾利气",
+                    "image": "http://img.szzhangchu.com/1439699782531_3326031192.jpg"
+                }
+            ]
+        }
+    }
+}

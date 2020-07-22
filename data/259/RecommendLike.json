@@ -1,0 +1,206 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543916093000,
+    "data": {
+        "total": 5,
+        "data": [
+            {
+                "title": "南北杏炖双雪",
+                "description": "还有什么比药膳汤更滋养",
+                "image": "http://img.szzhangchu.com/1439346393313_4193061574.jpg",
+                "id": "259",
+                "video": "http://video.szzhangchu.com/nanbeixingdunshuangxueA.mp4",
+                "video1": "http://video.szzhangchu.com/nanbeixingdunshuangxueB.mp4",
+                "play": "21370",
+                "favorite": "1650",
+                "create_date": 1037244865,
+                "content": "重点说银耳：银耳富含天然特性胶质，加上它具有滋阴作用，所以长期食用可以润肤，并有祛除脸部黄褐斑、雀斑的功效。",
+                "tags_info": [
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "296",
+                        "text": "益气补血",
+                        "type": 1
+                    },
+                    {
+                        "id": "388",
+                        "text": "养生餐",
+                        "type": 1
+                    },
+                    {
+                        "id": "331",
+                        "text": "炖",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "胡萝卜银耳汤",
+                "description": "减肥营养靓汤",
+                "image": "http://img.szzhangchu.com/1439469041169_7629357900.jpg",
+                "id": "4770",
+                "video": "http://video.szzhangchu.com/huluoboyinertangA.mp4",
+                "video1": "http://video.szzhangchu.com/huluoboyinertangB.mp4",
+                "play": "4276",
+                "favorite": "1662",
+                "create_date": 1162537392,
+                "content": "胡萝卜功效多，一年四季都适合熬汤。此汤清润滋阴，润肺止咳，清热温和，润而不燥。",
+                "tags_info": [
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "283",
+                        "text": "减肥",
+                        "type": 1
+                    },
+                    {
+                        "id": "145",
+                        "text": "菌菇",
+                        "type": 1
+                    },
+                    {
+                        "id": "159",
+                        "text": "根茎类",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "珍珠百合银耳汤",
+                "description": "让你是成为睡美人！",
+                "image": "http://img.szzhangchu.com/1439372431844_1626665175.JPG",
+                "id": "5728",
+                "video": "http://video.szzhangchu.com/zhenzhubaiheyinertangA.mp4",
+                "video1": "http://video.szzhangchu.com/zhenzhubaiheyinertangB.mp4",
+                "play": "2183",
+                "favorite": "912",
+                "create_date": 1189844878,
+                "content": "这款汤不仅含有美容养颜的珍珠粉、银耳，还有安神助眠的百合，让你在甜蜜的睡梦中不知不觉完善你的容颜！",
+                "tags_info": [
+                    {
+                        "id": "145",
+                        "text": "菌菇",
+                        "type": 1
+                    },
+                    {
+                        "id": "161",
+                        "text": "菌菇类",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "297",
+                        "text": "安神助眠",
+                        "type": 1
+                    },
+                    {
+                        "id": "159",
+                        "text": "根茎类",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "苹果雪梨银耳甜汤",
+                "description": "味美甜汤，用心感受",
+                "image": "http://img.szzhangchu.com/1440127853888_2028870204.JPG",
+                "id": "7951",
+                "video": "http://video.szzhangchu.com/pingguoxueliyinertiantangA.mp4",
+                "video1": "http://video.szzhangchu.com/pingguoxueliyinertiantangB.mp4",
+                "play": "3737",
+                "favorite": "852",
+                "create_date": 1251778560,
+                "content": "朵朵银耳如天空中飘荡着的绚彩般的云，为自己煲一碗银耳甜汤，让心灵感受来自劳动的满足！",
+                "tags_info": [
+                    {
+                        "id": "296",
+                        "text": "益气补血",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "161",
+                        "text": "菌菇类",
+                        "type": 1
+                    },
+                    {
+                        "id": "388",
+                        "text": "养生餐",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "鲜奶炖花胶",
+                "description": "鲜奶炖花胶",
+                "image": "http://img.szzhangchu.com/1506418472777_2043051706.jpg",
+                "id": "16428",
+                "video": "http://video.szzhangchu.com/20170816xiannaidunhuajiaoA.mp4",
+                "video1": "http://video.szzhangchu.com/20170816xiannaidunhuajiaoB.mp4",
+                "play": "19450",
+                "favorite": "0",
+                "create_date": 1506413516,
+                "content": "浓郁而热烈，诱人而芬芳，每一口都丝滑香甜，每一口都热情地在你的舌尖绽放。",
+                "tags_info": [
+                    {
+                        "id": "284",
+                        "text": "丰胸",
+                        "type": 1
+                    },
+                    {
+                        "id": "272",
+                        "text": "孕晚期",
+                        "type": 1
+                    },
+                    {
+                        "id": "302",
+                        "text": "补铁",
+                        "type": 1
+                    },
+                    {
+                        "id": "340",
+                        "text": "家庭主妇",
+                        "type": 1
+                    },
+                    {
+                        "id": "269",
+                        "text": "备孕期",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

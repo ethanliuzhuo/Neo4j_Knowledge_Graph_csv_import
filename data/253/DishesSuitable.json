@@ -1,0 +1,38 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898950000,
+    "data": {
+        "material": {
+            "material_id": "35",
+            "material_name": "西蓝花",
+            "image": "http://img.szzhangchu.com/20150518151207847.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "205",
+                    "material_name": "枸杞",
+                    "type": "0",
+                    "suitable_desc": "有利营养物质的吸收",
+                    "image": "http://img.szzhangchu.com/20150418190147278.jpg"
+                },
+                {
+                    "material_id": "37",
+                    "material_name": "胡萝卜",
+                    "type": "0",
+                    "suitable_desc": "预防消化系统疾病",
+                    "image": "http://img.szzhangchu.com/20141107101536959.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "251",
+                    "material_name": "牛奶",
+                    "type": "1",
+                    "suitable_desc": "影响钙质吸收",
+                    "image": "http://img.szzhangchu.com/20150530161229599.jpg"
+                }
+            ]
+        }
+    }
+}

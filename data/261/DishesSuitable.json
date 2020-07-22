@@ -1,0 +1,65 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543912645000,
+    "data": {
+        "material": {
+            "material_id": "236",
+            "material_name": "黑米",
+            "image": "http://img.szzhangchu.com/20150413111117885.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "53",
+                    "material_name": "生姜",
+                    "type": "0",
+                    "suitable_desc": "降胃火",
+                    "image": "http://img.szzhangchu.com/20150518151740428.jpg"
+                },
+                {
+                    "material_id": "75",
+                    "material_name": "绿豆",
+                    "type": "0",
+                    "suitable_desc": "健脾胃、祛暑热",
+                    "image": "http://img.szzhangchu.com/20141107103853939.jpg"
+                },
+                {
+                    "material_id": "78",
+                    "material_name": "红豆",
+                    "type": "0",
+                    "suitable_desc": "气血双补",
+                    "image": "http://img.szzhangchu.com/2014110710293271.jpg"
+                },
+                {
+                    "material_id": "203",
+                    "material_name": "莲子",
+                    "type": "0",
+                    "suitable_desc": "补肝益肾、丰肌润发",
+                    "image": "http://img.szzhangchu.com/20150518163138719.jpg"
+                },
+                {
+                    "material_id": "497",
+                    "material_name": "芸豆",
+                    "type": "0",
+                    "suitable_desc": "健康暖胃、美容补血",
+                    "image": "http://img.szzhangchu.com/1439719015160_4388064176.JPG"
+                },
+                {
+                    "material_id": "246",
+                    "material_name": "大米",
+                    "type": "0",
+                    "suitable_desc": "开胃益中、明目",
+                    "image": "http://img.szzhangchu.com/20141107095925575.jpg"
+                },
+                {
+                    "material_id": "251",
+                    "material_name": "牛奶",
+                    "type": "0",
+                    "suitable_desc": "益气、养血、生津、健脾胃",
+                    "image": "http://img.szzhangchu.com/20150530161229599.jpg"
+                }
+            ],
+            "suitable_not_with": []
+        }
+    }
+}

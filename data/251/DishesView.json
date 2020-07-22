@@ -1,0 +1,145 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543911950000,
+    "data": {
+        "dashes_id": "251",
+        "dashes_name": "泡芋头",
+        "material_video": "http://video.szzhangchu.com/paoyutouA.mp4",
+        "process_video": "http://video.szzhangchu.com/paoyutouB.mp4",
+        "hard_level": "容易",
+        "taste": "辣",
+        "cooke_time": "7天",
+        "image": "http://img.szzhangchu.com/1439346219971_4864495895.jpg",
+        "material_desc": "不一样的味道，不一样的风情，三分钟就能搞定～",
+        "share_amount": "0",
+        "dishes_name": "泡芋头",
+        "dishes_title": "酸香开胃，美白牙齿",
+        "dishes_id": "251",
+        "cooking_time": "7天",
+        "collect_count": "10907",
+        "click_count": "15577",
+        "create_date": "2002-11-11",
+        "last_update": "2018-12-04",
+        "comment_count": "2",
+        "agreement_amount": "574",
+        "tags_info": [
+            {
+                "id": 340,
+                "text": "家庭主妇",
+                "type": 1
+            },
+            {
+                "id": 289,
+                "text": "增强免疫力",
+                "type": 1
+            },
+            {
+                "id": 208,
+                "text": "芋头",
+                "type": 1
+            },
+            {
+                "id": 221,
+                "text": "其他",
+                "type": 1
+            },
+            {
+                "id": 159,
+                "text": "根茎类",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=251",
+        "step": [
+            {
+                "dishes_step_id": "1442",
+                "dishes_id": "251",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_0.jpg",
+                "dishes_step_desc": "将去皮洗净的芋头切成小块。"
+            },
+            {
+                "dishes_step_id": "1443",
+                "dishes_id": "251",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_1.jpg",
+                "dishes_step_desc": "锅中倒入约1000毫升清水煮开。"
+            },
+            {
+                "dishes_step_id": "1444",
+                "dishes_id": "251",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_2.jpg",
+                "dishes_step_desc": "放入芋头，用勺子拌匀。"
+            },
+            {
+                "dishes_step_id": "1445",
+                "dishes_id": "251",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_3.jpg",
+                "dishes_step_desc": "转中火煮约2分钟至熟透。"
+            },
+            {
+                "dishes_step_id": "1446",
+                "dishes_id": "251",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_4.jpg",
+                "dishes_step_desc": "用漏勺将芋头捞出洗净，盛入洗净的碗中。"
+            },
+            {
+                "dishes_step_id": "1447",
+                "dishes_id": "251",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_5.jpg",
+                "dishes_step_desc": "碗中加入盐、白糖。"
+            },
+            {
+                "dishes_step_id": "1448",
+                "dishes_id": "251",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_6.jpg",
+                "dishes_step_desc": "再倒入红椒圈拌匀。"
+            },
+            {
+                "dishes_step_id": "1449",
+                "dishes_id": "251",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_7.jpg",
+                "dishes_step_desc": "加入白醋拌匀。"
+            },
+            {
+                "dishes_step_id": "1450",
+                "dishes_id": "251",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_8.jpg",
+                "dishes_step_desc": "将拌好的材料转到洗净的玻璃罐中。"
+            },
+            {
+                "dishes_step_id": "1451",
+                "dishes_id": "251",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_9.jpg",
+                "dishes_step_desc": "再倒入约600毫升矿泉水，加盖密封7天。"
+            },
+            {
+                "dishes_step_id": "1452",
+                "dishes_id": "251",
+                "dishes_step_order": "11",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_10.jpg",
+                "dishes_step_desc": "取出腌渍好的芋头。"
+            },
+            {
+                "dishes_step_id": "1453",
+                "dishes_id": "251",
+                "dishes_step_order": "12",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322110357_11.jpg",
+                "dishes_step_desc": "装好盘即可食用。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543898951000,
+    "data": {
+        "page": "1",
+        "size": "100",
+        "total": "1",
+        "count": "1",
+        "data": [
+            {
+                "id": "101100",
+                "user_id": "1972884",
+                "type": "1",
+                "relate_id": "253",
+                "content": "你好",
+                "create_time": "",
+                "parent_id": "0",
+                "parents": [],
+                "nick": "天还是那么蓝",
+                "head_img": "http://q.qlogo.cn/qqapp/100956582/BFCEEB3A7FF8BB2F556B243F396E959F/100",
+                "istalent": 0
+            }
+        ]
+    }
+}

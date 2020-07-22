@@ -1,0 +1,140 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543914182000,
+    "data": {
+        "dashes_id": "246",
+        "dashes_name": "鸡血藤泡莴笋",
+        "material_video": "http://video.szzhangchu.com/jixuetengpaowosunA.mp4",
+        "process_video": "http://video.szzhangchu.com/jixuetengpaowosunB.mp4",
+        "hard_level": "容易",
+        "taste": "辣",
+        "cooke_time": "3天",
+        "image": "http://img.szzhangchu.com/1439346116879_6728476153.jpg",
+        "material_desc": "你看过了很多风景，你看过了很多美女，却不一定知道鸡血藤泡莴笋这道美味。制作简单，行气补血，效果杠杠滴。妹子暖男，都值得拥有。",
+        "share_amount": "0",
+        "dishes_name": "鸡血藤泡莴笋",
+        "dishes_title": "能养生的莴笋你确定听说过？！",
+        "dishes_id": "246",
+        "cooking_time": "3天",
+        "collect_count": "1422",
+        "click_count": "6931",
+        "create_date": "2002-11-10",
+        "last_update": "2018-12-04",
+        "comment_count": "3",
+        "agreement_amount": "224",
+        "tags_info": [
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            },
+            {
+                "id": 295,
+                "text": "开胃消食",
+                "type": 1
+            },
+            {
+                "id": 319,
+                "text": "辣",
+                "type": 1
+            },
+            {
+                "id": 159,
+                "text": "根茎类",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=246",
+        "step": [
+            {
+                "dishes_step_id": "1386",
+                "dishes_id": "246",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_0.jpg",
+                "dishes_step_desc": "莴笋去皮洗净，切滚刀块。"
+            },
+            {
+                "dishes_step_id": "1387",
+                "dishes_id": "246",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_1.jpg",
+                "dishes_step_desc": "鸡血藤置于清水中，掰成小块备用。"
+            },
+            {
+                "dishes_step_id": "1388",
+                "dishes_id": "246",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_2.jpg",
+                "dishes_step_desc": "再把切好的莴笋和洗净的朝天椒盛入碗中。"
+            },
+            {
+                "dishes_step_id": "1389",
+                "dishes_id": "246",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_3.jpg",
+                "dishes_step_desc": "加入少许盐。"
+            },
+            {
+                "dishes_step_id": "1390",
+                "dishes_id": "246",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_4.jpg",
+                "dishes_step_desc": "用筷子拌匀。"
+            },
+            {
+                "dishes_step_id": "1391",
+                "dishes_id": "246",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_5.jpg",
+                "dishes_step_desc": "加入鸡血藤拌匀。"
+            },
+            {
+                "dishes_step_id": "1392",
+                "dishes_id": "246",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_6.jpg",
+                "dishes_step_desc": "加入白糖拌匀。"
+            },
+            {
+                "dishes_step_id": "1393",
+                "dishes_id": "246",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_7.jpg",
+                "dishes_step_desc": "倒入白醋和500毫升的矿泉水。"
+            },
+            {
+                "dishes_step_id": "1394",
+                "dishes_id": "246",
+                "dishes_step_order": "9",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_8.jpg",
+                "dishes_step_desc": "把拌好的莴笋盛入准备好的玻璃罐中，加盖密封3天。"
+            },
+            {
+                "dishes_step_id": "1395",
+                "dishes_id": "246",
+                "dishes_step_order": "10",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_9.jpg",
+                "dishes_step_desc": "取玻璃罐，打开盖子。"
+            },
+            {
+                "dishes_step_id": "1396",
+                "dishes_id": "246",
+                "dishes_step_order": "11",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_10.jpg",
+                "dishes_step_desc": "用筷子夹出腌好的材料。"
+            },
+            {
+                "dishes_step_id": "1397",
+                "dishes_id": "246",
+                "dishes_step_order": "12",
+                "dishes_step_image": "http://img.szzhangchu.com/20130321142052_11.jpg",
+                "dishes_step_desc": "装好盘，即可食用。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

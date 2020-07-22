@@ -1,0 +1,33 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543911799000,
+    "data": {
+        "material_image": "http://img.szzhangchu.com/ylzt_20130322155113550.jpg",
+        "material": [
+            {
+                "material_name": "水发绿豆",
+                "material_weight": "100克"
+            },
+            {
+                "material_name": "水淀粉",
+                "material_weight": "20克"
+            },
+            {
+                "material_name": "冰糖",
+                "material_weight": "20克"
+            }
+        ],
+        "spices": [
+            {
+                "title": "水淀粉",
+                "image": "http://img.szzhangchu.com/1439279768833_9900185974.jpg"
+            },
+            {
+                "title": "冰糖",
+                "image": "http://img.szzhangchu.com/1446301911710_4718988950.jpg"
+            }
+        ]
+    }
+}

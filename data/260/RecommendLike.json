@@ -1,0 +1,206 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543911800000,
+    "data": {
+        "total": 5,
+        "data": [
+            {
+                "title": "南瓜绿豆银耳羹",
+                "description": "夏季喝它，美丽又去火",
+                "image": "http://img.szzhangchu.com/1439359175463_6171254243.jpg",
+                "id": "1520",
+                "video": "http://video.szzhangchu.com/nangualvdouyinergengA.mp4",
+                "video1": "http://video.szzhangchu.com/nangualvdouyinergengB.mp4",
+                "play": "6179",
+                "favorite": "1878",
+                "create_date": 1071897484,
+                "content": "天气那么热，哪都不想去，不如在家做糖水吧，润肺的南瓜配上降火的绿豆和养颜的银耳，煮好后最好放进冰箱里头呆一会儿，冰冰凉凉，美丽又去火。",
+                "tags_info": [
+                    {
+                        "id": "161",
+                        "text": "菌菇类",
+                        "type": 1
+                    },
+                    {
+                        "id": "196",
+                        "text": "绿豆",
+                        "type": 1
+                    },
+                    {
+                        "id": "332",
+                        "text": "煮",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "绿豆哈密瓜",
+                "description": "夏天来一碗",
+                "image": "http://img.szzhangchu.com/1439364697739_4554991521.jpg",
+                "id": "1733",
+                "video": "http://video.szzhangchu.com/lvdouhamiguaA.mp4",
+                "video1": "http://video.szzhangchu.com/lvdouhamiguaB.mp4",
+                "play": "2413",
+                "favorite": "330",
+                "create_date": 1078020029,
+                "content": "夏季容易热火攻心，喝一碗绿豆哈密瓜来降火吧，甜滋滋的感觉，由口腔直溜心田，似乎有无数把蒲扇在为你拂着清风。",
+                "tags_info": [
+                    {
+                        "id": "261",
+                        "text": "粤菜",
+                        "type": 1
+                    },
+                    {
+                        "id": "296",
+                        "text": "益气补血",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "196",
+                        "text": "绿豆",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "莲子百合绿豆甜汤",
+                "description": "夏天的美味甜汤",
+                "image": "http://img.szzhangchu.com/1441023478665_7950387300.JPG",
+                "id": "5401",
+                "video": "http://video.szzhangchu.com/lianzibaihelvdoutiantangA.mp4",
+                "video1": "http://video.szzhangchu.com/lianzibaihelvdoutiantangB.mp4",
+                "play": "2215",
+                "favorite": "78",
+                "create_date": 1180505328,
+                "content": "这汤清热解毒,最适合夏天食用,每天一碗必不可少。",
+                "tags_info": [
+                    {
+                        "id": "298",
+                        "text": "降低血压",
+                        "type": 1
+                    },
+                    {
+                        "id": "315",
+                        "text": "调节三高",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "196",
+                        "text": "绿豆",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "马蹄绿豆汤",
+                "description": "一学就会的清润去火汤",
+                "image": "http://img.szzhangchu.com/1441023405449_7729545444.JPG",
+                "id": "5403",
+                "video": "http://video.szzhangchu.com/matilvdoutangA.mp4",
+                "video1": "http://video.szzhangchu.com/matilvdoutangB.mp4",
+                "play": "2696",
+                "favorite": "2772",
+                "create_date": 1180587367,
+                "content": "绿豆能解渴利尿，消肿下气，解暑除烦热。这款糖水做起来非常方便，即营养又很美味。",
+                "tags_info": [
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "332",
+                        "text": "煮",
+                        "type": 1
+                    },
+                    {
+                        "id": "315",
+                        "text": "调节三高",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    },
+                    {
+                        "id": "298",
+                        "text": "降低血压",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "title": "红枣白果绿豆汤",
+                "description": "清热消暑的夏令甜品",
+                "image": "http://img.szzhangchu.com/1439448340893_1540922485.jpg",
+                "id": "9265",
+                "video": "http://video.szzhangchu.com/hongzaobaiguolvdoutangA.mp4",
+                "video1": "http://video.szzhangchu.com/hongzaobaiguolvdoutangB.mp4",
+                "play": "2838",
+                "favorite": "198",
+                "create_date": 1287894167,
+                "content": "这是一款将白果、红枣、绿豆放在一起熬成的甜汤，可口又美颜，丝丝甜蜜沁人新田。",
+                "tags_info": [
+                    {
+                        "id": "196",
+                        "text": "绿豆",
+                        "type": 1
+                    },
+                    {
+                        "id": "317",
+                        "text": "甜",
+                        "type": 1
+                    },
+                    {
+                        "id": "332",
+                        "text": "煮",
+                        "type": 1
+                    },
+                    {
+                        "id": "293",
+                        "text": "养心润肺",
+                        "type": 1
+                    },
+                    {
+                        "id": "179",
+                        "text": "甜品汤",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

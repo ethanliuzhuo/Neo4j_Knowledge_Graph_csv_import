@@ -1,0 +1,52 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543911950000,
+    "data": {
+        "material": {
+            "material_id": "50",
+            "material_name": "芋头",
+            "image": "http://img.szzhangchu.com/20141107101003538.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "20",
+                    "material_name": "芹菜",
+                    "type": "0",
+                    "suitable_desc": "补气，增食欲",
+                    "image": "http://img.szzhangchu.com/1439643454945_5297162408.jpg"
+                },
+                {
+                    "material_id": "206",
+                    "material_name": "红枣",
+                    "type": "0",
+                    "suitable_desc": "补血养颜",
+                    "image": "http://img.szzhangchu.com/20140904090345337.jpg"
+                },
+                {
+                    "material_id": "485",
+                    "material_name": "鲫鱼",
+                    "type": "0",
+                    "suitable_desc": "治疗脾胃虚弱",
+                    "image": "http://img.szzhangchu.com/1440139100663_7811167460.jpg"
+                },
+                {
+                    "material_id": "119",
+                    "material_name": "牛肉",
+                    "type": "0",
+                    "suitable_desc": "防治食欲不振",
+                    "image": "http://img.szzhangchu.com/20141107102627560.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "182",
+                    "material_name": "香蕉",
+                    "type": "1",
+                    "suitable_desc": "引起腹胀",
+                    "image": "http://img.szzhangchu.com/20150413105712913.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898952000,
+    "data": {
+        "material": {
+            "material_id": "227",
+            "material_name": "凉薯",
+            "image": "http://img.szzhangchu.com/20150413100530251.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "13",
+                    "material_name": "韭菜",
+                    "type": "0",
+                    "suitable_desc": "增强免疫",
+                    "image": "http://img.szzhangchu.com/20141107104503423.jpg"
+                },
+                {
+                    "material_id": "216",
+                    "material_name": "榨菜",
+                    "type": "0",
+                    "suitable_desc": "开胃消食",
+                    "image": "http://img.szzhangchu.com/1439715119768_3793308183.jpg"
+                },
+                {
+                    "material_id": "269",
+                    "material_name": "小米",
+                    "type": "0",
+                    "suitable_desc": "养心润肺、清凉去热",
+                    "image": "http://img.szzhangchu.com/1439880727576_5506580167.jpg"
+                },
+                {
+                    "material_id": "246",
+                    "material_name": "大米",
+                    "type": "0",
+                    "suitable_desc": "促进消化、益气强身",
+                    "image": "http://img.szzhangchu.com/20141107095925575.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "137",
+                    "material_name": "鹌鹑",
+                    "type": "1",
+                    "suitable_desc": "不利于营养吸收",
+                    "image": "http://img.szzhangchu.com/20150518161424202.jpg"
+                }
+            ]
+        }
+    }
+}

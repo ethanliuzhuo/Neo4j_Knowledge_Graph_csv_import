@@ -1,0 +1,117 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.1",
+    "timestamp": 1543898947000,
+    "data": {
+        "dashes_id": "252",
+        "dashes_name": "泡洋葱",
+        "material_video": "http://video.szzhangchu.com/paoyangcongA.mp4",
+        "process_video": "http://video.szzhangchu.com/paoyangcongB.mp4",
+        "hard_level": "容易",
+        "taste": "辣",
+        "cooke_time": "5天",
+        "image": "http://img.szzhangchu.com/1439346243258_8120836910.jpg",
+        "material_desc": "洋葱含有丰富的硒元素，有延缓衰老的作用。吃过了太多的洋葱炒蛋，洋葱啥啥啥，这次研制一道泡洋葱，增加一种全新的体验，丰富一下人生。",
+        "share_amount": "0",
+        "dishes_name": "泡洋葱",
+        "dishes_title": "功效太强，直接防癌抗癌",
+        "dishes_id": "252",
+        "cooking_time": "5天",
+        "collect_count": "25186",
+        "click_count": "37384",
+        "create_date": "2002-11-11",
+        "last_update": "2018-12-04",
+        "comment_count": "2",
+        "agreement_amount": "921",
+        "tags_info": [
+            {
+                "id": 324,
+                "text": "腌",
+                "type": 1
+            },
+            {
+                "id": 159,
+                "text": "根茎类",
+                "type": 1
+            },
+            {
+                "id": 300,
+                "text": "降低血脂",
+                "type": 1
+            },
+            {
+                "id": 144,
+                "text": "蔬菜",
+                "type": 1
+            },
+            {
+                "id": 319,
+                "text": "辣",
+                "type": 1
+            }
+        ],
+        "share_url": "http://h5.izhangchu.com/web/dishes_view/index.html?&dishes_id=252",
+        "step": [
+            {
+                "dishes_step_id": "1454",
+                "dishes_id": "252",
+                "dishes_step_order": "1",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_0.jpg",
+                "dishes_step_desc": "将去皮洗净的洋葱切成丝。"
+            },
+            {
+                "dishes_step_id": "1455",
+                "dishes_id": "252",
+                "dishes_step_order": "2",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_1.jpg",
+                "dishes_step_desc": "将洗净的朝天椒拍破备用。"
+            },
+            {
+                "dishes_step_id": "1456",
+                "dishes_id": "252",
+                "dishes_step_order": "3",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_2.jpg",
+                "dishes_step_desc": "将切好的洋葱放碗中，倒入朝天椒。"
+            },
+            {
+                "dishes_step_id": "1457",
+                "dishes_id": "252",
+                "dishes_step_order": "4",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_3.jpg",
+                "dishes_step_desc": "碗中加入盐、白醋、白糖。"
+            },
+            {
+                "dishes_step_id": "1458",
+                "dishes_id": "252",
+                "dishes_step_order": "5",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_4.jpg",
+                "dishes_step_desc": "用筷子拌至糖分融化。"
+            },
+            {
+                "dishes_step_id": "1459",
+                "dishes_id": "252",
+                "dishes_step_order": "6",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_5.jpg",
+                "dishes_step_desc": "将材料放入玻璃罐中。"
+            },
+            {
+                "dishes_step_id": "1460",
+                "dishes_id": "252",
+                "dishes_step_order": "7",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_6.jpg",
+                "dishes_step_desc": "加上盖子扣紧实，密封4～5天。"
+            },
+            {
+                "dishes_step_id": "1461",
+                "dishes_id": "252",
+                "dishes_step_order": "8",
+                "dishes_step_image": "http://img.szzhangchu.com/20130322111623_7.jpg",
+                "dishes_step_desc": "洋葱泡菜制成，取出食用即可。"
+            }
+        ],
+        "like": 0,
+        "extra": [],
+        "commoditys": []
+    }
+}

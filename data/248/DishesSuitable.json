@@ -1,0 +1,136 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543915295000,
+    "data": {
+        "material": {
+            "material_id": "690",
+            "material_name": "木耳",
+            "image": "http://img.szzhangchu.com/1439859064895_6745772422.jpg",
+            "suitable_with": [
+                {
+                    "material_id": "486",
+                    "material_name": "白菜",
+                    "type": "0",
+                    "suitable_desc": "润喉止咳",
+                    "image": "http://img.szzhangchu.com/1439642455400_6714813740.jpg"
+                },
+                {
+                    "material_id": "43",
+                    "material_name": "马蹄",
+                    "type": "0",
+                    "suitable_desc": "清热化痰",
+                    "image": "http://img.szzhangchu.com/2015042010084044.jpg"
+                },
+                {
+                    "material_id": "46",
+                    "material_name": "莴笋",
+                    "type": "0",
+                    "suitable_desc": "降低血压、血脂、血糖",
+                    "image": "http://img.szzhangchu.com/20150420090314332.jpg"
+                },
+                {
+                    "material_id": "67",
+                    "material_name": "豆角",
+                    "type": "0",
+                    "suitable_desc": "防治高血压、高血脂、糖尿病",
+                    "image": "http://img.szzhangchu.com/20150413101145145.jpg"
+                },
+                {
+                    "material_id": "75",
+                    "material_name": "绿豆",
+                    "type": "0",
+                    "suitable_desc": "降压消暑",
+                    "image": "http://img.szzhangchu.com/20141107103853939.jpg"
+                },
+                {
+                    "material_id": "90",
+                    "material_name": "银耳",
+                    "type": "0",
+                    "suitable_desc": "提高免疫",
+                    "image": "http://img.szzhangchu.com/20141107101138139.jpg"
+                },
+                {
+                    "material_id": "110",
+                    "material_name": "猪腰",
+                    "type": "0",
+                    "suitable_desc": "提高免疫",
+                    "image": "http://img.szzhangchu.com/20150518154013924.jpg"
+                },
+                {
+                    "material_id": "178",
+                    "material_name": "海带",
+                    "type": "0",
+                    "suitable_desc": "降低血压",
+                    "image": "http://img.szzhangchu.com/20141107100420285.jpg"
+                },
+                {
+                    "material_id": "187",
+                    "material_name": "山楂",
+                    "type": "0",
+                    "suitable_desc": "辅助治溃疡和痛经",
+                    "image": "http://img.szzhangchu.com/20150518162713869.jpg"
+                },
+                {
+                    "material_id": "206",
+                    "material_name": "红枣",
+                    "type": "0",
+                    "suitable_desc": "补血",
+                    "image": "http://img.szzhangchu.com/20140904090345337.jpg"
+                },
+                {
+                    "material_id": "429",
+                    "material_name": "猪脑",
+                    "type": "0",
+                    "suitable_desc": "益智强身",
+                    "image": "http://img.szzhangchu.com/1439717235580_7263905117.jpg"
+                },
+                {
+                    "material_id": "453",
+                    "material_name": "芦荟",
+                    "type": "0",
+                    "suitable_desc": "降低血糖",
+                    "image": "http://img.szzhangchu.com/20150420085846600.jpg"
+                },
+                {
+                    "material_id": "485",
+                    "material_name": "鲫鱼",
+                    "type": "0",
+                    "suitable_desc": "利尿",
+                    "image": "http://img.szzhangchu.com/1440139100663_7811167460.jpg"
+                },
+                {
+                    "material_id": "774",
+                    "material_name": "橘子（柑橘）",
+                    "type": "0",
+                    "suitable_desc": "辅助治疗痛经",
+                    "image": "http://img.szzhangchu.com/1441094089302_6478118436.jpg"
+                },
+                {
+                    "material_id": "799",
+                    "material_name": "蒜",
+                    "type": "0",
+                    "suitable_desc": "养生保健",
+                    "image": "http://img.szzhangchu.com/1439804688622_9218018407.jpg"
+                }
+            ],
+            "suitable_not_with": [
+                {
+                    "material_id": "175",
+                    "material_name": "田螺",
+                    "type": "1",
+                    "suitable_desc": "不利于消化",
+                    "image": "http://img.szzhangchu.com/1439716834930_3594769106.jpg"
+                },
+                {
+                    "material_id": "823",
+                    "material_name": "茶",
+                    "type": "1",
+                    "suitable_desc": "不利铁的吸收",
+                    "image": "http://img.szzhangchu.com/20130118172922_0.jpg"
+                }
+            ]
+        }
+    }
+}

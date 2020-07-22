@@ -1,0 +1,37 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1543898952000,
+    "data": {
+        "material_image": "http://img.szzhangchu.com/ylzt_20130322140055361.jpg",
+        "material": [
+            {
+                "material_name": "凉薯",
+                "material_weight": "300克"
+            },
+            {
+                "material_name": "朝天椒",
+                "material_weight": "20克"
+            },
+            {
+                "material_name": "盐",
+                "material_weight": "20克"
+            },
+            {
+                "material_name": "白醋",
+                "material_weight": "20毫升"
+            }
+        ],
+        "spices": [
+            {
+                "title": "盐",
+                "image": "http://img.szzhangchu.com/1446302300109_3829074140.jpg"
+            },
+            {
+                "title": "白醋",
+                "image": "http://img.szzhangchu.com/1442404439252_9197095026.jpg"
+            }
+        ]
+    }
+}
