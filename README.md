@@ -266,6 +266,9 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
 
 启动命令`neo4j-admin import --nodes=../import/movies.csv --nodes=../import/actors.csv --relationships=../import/roles.csv --multiline-fields=True --skip-duplicate-nodes=True`
 
+或者`neo4j-admin import --nodes=../import/node1.csv --nodes=../import/node2.csv --relationships=../import/relations.csv --multiline-fields=True --skip-duplicate-nodes=True`
+
+
 注意，因为csv有重复值，必须使用`--skip-duplicate-nodes=True`，更多的参数设置，参考[官方](https://neo4j.com/docs/operations-manual/current/tools/import/options/)，中文翻译参考[这里](http://weikeqin.com/2017/04/11/neo4j-import/)
 
 ## 效果展示
