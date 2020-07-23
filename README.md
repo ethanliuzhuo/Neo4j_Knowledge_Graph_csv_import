@@ -4,22 +4,50 @@
 
 ```bashrc
 
-data          
-├── 246
-|    └──CommentList.json #评论 不用
-|    └──DishesCommensense.json #关键食材和介绍
-|    └──DishesMaterial.json #食材、材料
-|    └──DishesSuitable.json #替代食材
-|    └──DishesView.json #菜谱详细信息，菜名，时间，难度，步骤等
-|    └──RecommendLike.json #相关菜
-├── 248
-|    └──CommentList.json
-|    └──DishesCommensense.json
-|    └──DishesMaterial.json
-|    └──DishesSuitable.json
-|    └──DishesView.json
-|    └──RecommendLike.json
-└── ...         
+data/掌厨/
+       ├──菜谱
+       |    ├── 246
+       |    |    └──CommentList.json #评论 不用
+       |    |    └──DishesCommensense.json #关键食材和介绍
+       |    |    └──DishesMaterial.json #食材、材料
+       |    |    └──DishesSuitable.json #替代食材
+       |    |    └──DishesView.json #菜谱详细信息，菜名，时间，难度，步骤等
+       |    |    └──RecommendLike.json #相关菜
+       |    ├── 248
+       |    |    └──CommentList.json
+       |    |    └──DishesCommensense.json
+       |    |    └──DishesMaterial.json
+       |    |    └──DishesSuitable.json
+       |    |    └──DishesView.json
+       |    |    └──RecommendLike.json
+       |    └── ...   #其他菜谱
+       |
+       ├──分类
+       |    ├──3分钟小炒
+       |    |       ├──炒饭
+       |    |       |   └──1.json #树种以上
+       |    |       ├──炒面
+       |    |       |   └──1.json
+       |    |       └── ...   #其他3分钟小炒
+       |    |
+       |    ├──地方特色菜
+       |    |       ├──北京菜
+       |    |       |    └──1.json
+       |    |       └── ... #其他地方特色菜
+       |    |
+       |    └── ...  #其他分类
+       |
+       └──食材   
+            ├──常见食材
+            |    └── 菠菜
+            |    |   └──1.json    #相关菜
+            |    |   └──2.json   #相关菜
+            |    |   └──3.json   #相关菜
+            |    |   └──菠菜.json #该食材详细介绍
+            |    |
+            |    └── ... #其他常见食材
+            |
+            └── ...  #其他食材
 ```
 ## 1.安装neo4j 数据库
 [-**`下载链接`**](https://neo4j.com/download/)<br>
@@ -282,3 +310,5 @@ self.create_relationship('Dashes_name', 'Hard_level', rels_hard_level, 'hard_lev
     </a>
 </p>
 
+
+如果需要该数据，请联系ethanliuzhuo@outlook.com
